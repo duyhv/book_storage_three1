@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hanh-phuc-khong-kho-tim-tap-2_19688.html",
+    "title" : "Hạnh Phúc Không Khó Tìm Tập 2",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "M. J. Ryan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-22",
+    "duration" : 8927,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/EPUB/EPUB_f1e061b3e420a466c4d95d713d8780fc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/IMAGE/IMAGE_f1e061b3e420a466c4d95d713d8780fc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f1e061b3e420a466c4d95d713d8780fc_3bf30b59bee8ed3941e019d2199eced2_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "HANH PHUC KHONG KHO TIM 2 01 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f1e061b3e420a466c4d95d713d8780fc_3bf30b59bee8ed3941e019d2199eced2_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "HANH PHUC KHONG KHO TIM 2 01 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f1e061b3e420a466c4d95d713d8780fc_200a81cf670d5fdf45e3125b0e879cae_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "HANH PHUC KHONG KHO TIM 2 02 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f1e061b3e420a466c4d95d713d8780fc_200a81cf670d5fdf45e3125b0e879cae_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "HANH PHUC KHONG KHO TIM 2 02 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f1e061b3e420a466c4d95d713d8780fc_9a4e613bcae9d715d5612da35b3ebe04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2458,
+    "title" : "HANH PHUC KHONG KHO TIM 2 03",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f1e061b3e420a466c4d95d713d8780fc_3bf30b59bee8ed3941e019d2199eced2_1.mp3",
+    "title" : "HANH PHUC KHONG KHO TIM 2 01 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f1e061b3e420a466c4d95d713d8780fc_3bf30b59bee8ed3941e019d2199eced2_2.mp3",
+    "title" : "HANH PHUC KHONG KHO TIM 2 01 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f1e061b3e420a466c4d95d713d8780fc_200a81cf670d5fdf45e3125b0e879cae_1.mp3",
+    "title" : "HANH PHUC KHONG KHO TIM 2 02 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f1e061b3e420a466c4d95d713d8780fc_200a81cf670d5fdf45e3125b0e879cae_2.mp3",
+    "title" : "HANH PHUC KHONG KHO TIM 2 02 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f1e061b3e420a466c4d95d713d8780fc_9a4e613bcae9d715d5612da35b3ebe04.mp3",
+    "title" : "HANH PHUC KHONG KHO TIM 2 03",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
