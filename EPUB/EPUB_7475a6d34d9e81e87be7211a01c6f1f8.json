@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bi-mat-chiec-xo-cam-xuc_19540.html",
+    "title" : "Bí Mật Chiếc Xô Cảm Xúc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tom Rath",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-21",
+    "duration" : 4507,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/EPUB/EPUB_7475a6d34d9e81e87be7211a01c6f1f8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/IMAGE/IMAGE_7475a6d34d9e81e87be7211a01c6f1f8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_7475a6d34d9e81e87be7211a01c6f1f8_f4ce48ac940be8f598450e4259b08893.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2081,
+    "title" : "BiMatChiecXoCamXuc01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_7475a6d34d9e81e87be7211a01c6f1f8_9ce66bb55ee7328b4514d3d5ace7656a.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2426,
+    "title" : "BiMatChiecXoCamXuc02",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_7475a6d34d9e81e87be7211a01c6f1f8_f4ce48ac940be8f598450e4259b08893.mp3",
+    "title" : "BiMatChiecXoCamXuc01",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_7475a6d34d9e81e87be7211a01c6f1f8_9ce66bb55ee7328b4514d3d5ace7656a.mp3",
+    "title" : "BiMatChiecXoCamXuc02",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
