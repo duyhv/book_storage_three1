@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dac-quyen-cua-giao-su_13529.html",
+    "title" : "Đặc Quyền Của Giáo Sư",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dư Lạc Thuần",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-26",
+    "duration" : 14515,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/EPUB/EPUB_be671c4fec8813a08d5b2de34ebc1d38.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/IMAGE/IMAGE_be671c4fec8813a08d5b2de34ebc1d38.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/AUDIO/AUDIO_be671c4fec8813a08d5b2de34ebc1d38_c2f5274443679be1319845f3de320aa1_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện ngôn tình Sủng - Hài Hước làm ta yêu đời ( Phần 1) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/AUDIO/AUDIO_be671c4fec8813a08d5b2de34ebc1d38_c2f5274443679be1319845f3de320aa1_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện ngôn tình Sủng - Hài Hước làm ta yêu đời ( Phần 1) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/AUDIO/AUDIO_be671c4fec8813a08d5b2de34ebc1d38_db25819dc87c7d6255cc9da0d16a16d0_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện ngôn tình Sủng - Hài Hước làm ta yêu đời - p2 Hết (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/AUDIO/AUDIO_be671c4fec8813a08d5b2de34ebc1d38_db25819dc87c7d6255cc9da0d16a16d0_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện ngôn tình Sủng - Hài Hước làm ta yêu đời - p2 Hết (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/AUDIO/AUDIO_be671c4fec8813a08d5b2de34ebc1d38_c2f5274443679be1319845f3de320aa1_1.mp3",
+    "title" : "Truyện ngôn tình Sủng - Hài Hước làm ta yêu đời ( Phần 1) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/AUDIO/AUDIO_be671c4fec8813a08d5b2de34ebc1d38_c2f5274443679be1319845f3de320aa1_2.mp3",
+    "title" : "Truyện ngôn tình Sủng - Hài Hước làm ta yêu đời ( Phần 1) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/AUDIO/AUDIO_be671c4fec8813a08d5b2de34ebc1d38_db25819dc87c7d6255cc9da0d16a16d0_1.mp3",
+    "title" : "Truyện ngôn tình Sủng - Hài Hước làm ta yêu đời - p2 Hết (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/AUDIO/AUDIO_be671c4fec8813a08d5b2de34ebc1d38_db25819dc87c7d6255cc9da0d16a16d0_2.mp3",
+    "title" : "Truyện ngôn tình Sủng - Hài Hước làm ta yêu đời - p2 Hết (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
