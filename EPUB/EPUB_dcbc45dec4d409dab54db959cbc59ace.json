@@ -1,0 +1,293 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/huong-dan-dau-tu-vang-bac_19614.html",
+    "title" : "Hướng Dẫn Đầu Tư Vàng & Bạc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Michael Maloney",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-29",
+    "duration" : 38515,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/EPUB/EPUB_dcbc45dec4d409dab54db959cbc59ace.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/IMAGE/IMAGE_dcbc45dec4d409dab54db959cbc59ace.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/01.%20Ch%C6%B0%C6%A1ng%2000%20-%20H%C6%B0%E1%BB%9Bng%20D%E1%BA%ABn%20%C4%90%E1%BA%A7u%20T%C6%B0%20V%C3%A0ng%20V%C3%A0%20B%E1%BA%A1c%20-%20NG%C6%AF%E1%BB%9CI%20VI%E1%BB%86T%20y%C3%AAu%20NG%C6%AF%E1%BB%9CI%20VI%E1%BB%86T%20-%20Youtube.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 798,
+    "title" : "01. Chương 00 - Hướng Dẫn Đầu Tư Vàng Và Bạc - NGƯỜI VIỆT yêu NGƯỜI VIỆT - Youtube",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/02.%20Ch%C6%B0%C6%A1ng%2001%2002%20-%20H%C6%B0%E1%BB%9Bng%20D%E1%BA%ABn%20%C4%90%E1%BA%A7u%20T%C6%B0%20V%C3%A0ng%20V%C3%A0%20B%E1%BA%A1c%20-%20C%C6%B0%20S%C4%A9%20TH%C3%8DCH%20THI%C3%8AN%20PH%C3%9AC%20-%20Youtube.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2134,
+    "title" : "02. Chương 01 02 - Hướng Dẫn Đầu Tư Vàng Và Bạc - Cư Sĩ THÍCH THIÊN PHÚC - Youtube",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/03.%20Ch%C6%B0%C6%A1ng%2003%2004%20-%20H%C6%B0%E1%BB%9Bng%20D%E1%BA%ABn%20%C4%90%E1%BA%A7u%20T%C6%B0%20V%C3%A0ng%20V%C3%A0%20B%E1%BA%A1c%20-%20NG%C6%AF%E1%BB%9CI%20VI%E1%BB%86T%20y%C3%AAu%20NG%C6%AF%E1%BB%9CI%20VI%E1%BB%86T%20-%20Youtube.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1776,
+    "title" : "03. Chương 03 04 - Hướng Dẫn Đầu Tư Vàng Và Bạc - NGƯỜI VIỆT yêu NGƯỜI VIỆT - Youtube",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/04.%20Ch%C6%B0%C6%A1ng%2005%2006%20-%20H%C6%B0%E1%BB%9Bng%20D%E1%BA%ABn%20%C4%90%E1%BA%A7u%20T%C6%B0%20V%C3%A0ng%20V%C3%A0%20B%E1%BA%A1c%20-%20C%C6%B0%20S%C4%A9%20TH%C3%8DCH%20THI%C3%8AN%20PH%C3%9AC%20-%20Youtube.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1861,
+    "title" : "04. Chương 05 06 - Hướng Dẫn Đầu Tư Vàng Và Bạc - Cư Sĩ THÍCH THIÊN PHÚC - Youtube",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/05.%20Ch%C6%B0%C6%A1ng%2007%20-%20H%C6%B0%E1%BB%9Bng%20D%E1%BA%ABn%20%C4%90%E1%BA%A7u%20T%C6%B0%20V%C3%A0ng%20V%C3%A0%20B%E1%BA%A1c%20-%20NG%C6%AF%E1%BB%9CI%20VI%E1%BB%86T%20y%C3%AAu%20NG%C6%AF%E1%BB%9CI%20VI%E1%BB%86T%20-%20Youtube.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1614,
+    "title" : "05. Chương 07 - Hướng Dẫn Đầu Tư Vàng Và Bạc - NGƯỜI VIỆT yêu NGƯỜI VIỆT - Youtube",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/06.%20Ch%C6%B0%C6%A1ng%2008%20-%20H%C6%B0%E1%BB%9Bng%20D%E1%BA%ABn%20%C4%90%E1%BA%A7u%20T%C6%B0%20V%C3%A0ng%20V%C3%A0%20B%E1%BA%A1c%20-%20C%C6%B0%20S%C4%A9%20TH%C3%8DCH%20THI%C3%8AN%20PH%C3%9AC%20-%20Youtube.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2813,
+    "title" : "06. Chương 08 - Hướng Dẫn Đầu Tư Vàng Và Bạc - Cư Sĩ THÍCH THIÊN PHÚC - Youtube",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/07.%20Ch%C6%B0%C6%A1ng%2009%2010%20-%20H%C6%B0%E1%BB%9Bng%20D%E1%BA%ABn%20%C4%90%E1%BA%A7u%20T%C6%B0%20V%C3%A0ng%20V%C3%A0%20B%E1%BA%A1c%20-%20NG%C6%AF%E1%BB%9CI%20VI%E1%BB%86T%20y%C3%AAu%20NG%C6%AF%E1%BB%9CI%20VI%E1%BB%86T%20-%20Youtube.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1543,
+    "title" : "07. Chương 09 10 - Hướng Dẫn Đầu Tư Vàng Và Bạc - NGƯỜI VIỆT yêu NGƯỜI VIỆT - Youtube",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/08.%20Ch%C6%B0%C6%A1ng%2011%20-%20H%C6%B0%E1%BB%9Bng%20D%E1%BA%ABn%20%C4%90%E1%BA%A7u%20T%C6%B0%20V%C3%A0ng%20V%C3%A0%20B%E1%BA%A1c%20-%20C%C6%B0%20S%C4%A9%20TH%C3%8DCH%20THI%C3%8AN%20PH%C3%9AC%20-%20Youtube.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1623,
+    "title" : "08. Chương 11 - Hướng Dẫn Đầu Tư Vàng Và Bạc - Cư Sĩ THÍCH THIÊN PHÚC - Youtube",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/09.%20Ch%C6%B0%C6%A1ng%2012%2013%20-%20H%C6%B0%E1%BB%9Bng%20D%E1%BA%ABn%20%C4%90%E1%BA%A7u%20T%C6%B0%20V%C3%A0ng%20V%C3%A0%20B%E1%BA%A1c%20-%20NG%C6%AF%E1%BB%9CI%20VI%E1%BB%86T%20y%C3%AAu%20NG%C6%AF%E1%BB%9CI%20VI%E1%BB%86T%20-%20Youtube.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1525,
+    "title" : "09. Chương 12 13 - Hướng Dẫn Đầu Tư Vàng Và Bạc - NGƯỜI VIỆT yêu NGƯỜI VIỆT - Youtube",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/10.%20Ch%C6%B0%C6%A1ng%2014%20-%20H%C6%B0%E1%BB%9Bng%20D%E1%BA%ABn%20%C4%90%E1%BA%A7u%20T%C6%B0%20V%C3%A0ng%20V%C3%A0%20B%E1%BA%A1c%20-%20C%C6%B0%20S%C4%A9%20TH%C3%8DCH%20THI%C3%8AN%20PH%C3%9AC%20-%20Youtube.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2022,
+    "title" : "10. Chương 14 - Hướng Dẫn Đầu Tư Vàng Và Bạc - Cư Sĩ THÍCH THIÊN PHÚC - Youtube",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/HuongDauDauTuVangVaBacC00_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 797,
+    "title" : "HuongDauDauTuVangVaBacC00 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/HuongDauDauTuVangVaBacC0102_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2134,
+    "title" : "HuongDauDauTuVangVaBacC0102 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/HuongDauDauTuVangVaBacC0304.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1776,
+    "title" : "HuongDauDauTuVangVaBacC0304",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/HuongDauDauTuVangVaBacC0506_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1861,
+    "title" : "HuongDauDauTuVangVaBacC0506 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/HuongDauDauTuVangVaBacC07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1614,
+    "title" : "HuongDauDauTuVangVaBacC07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/HuongDauDauTuVangVaBacC08_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2813,
+    "title" : "HuongDauDauTuVangVaBacC08 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/HuongDauDauTuVangVaBacC0910.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1543,
+    "title" : "HuongDauDauTuVangVaBacC0910",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/HuongDauDauTuVangVaBacC11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1623,
+    "title" : "HuongDauDauTuVangVaBacC11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/HuongDauDauTuVangVaBacC1213_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1524,
+    "title" : "HuongDauDauTuVangVaBacC1213 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/HuongDauDauTuVangVaBacC14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2021,
+    "title" : "HuongDauDauTuVangVaBacC14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/HuongDauDauTuVangVaBacC151617.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3100,
+    "title" : "HuongDauDauTuVangVaBacC151617",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/01.%20Ch%C6%B0%C6%A1ng%2000%20-%20H%C6%B0%E1%BB%9Bng%20D%E1%BA%ABn%20%C4%90%E1%BA%A7u%20T%C6%B0%20V%C3%A0ng%20V%C3%A0%20B%E1%BA%A1c%20-%20NG%C6%AF%E1%BB%9CI%20VI%E1%BB%86T%20y%C3%AAu%20NG%C6%AF%E1%BB%9CI%20VI%E1%BB%86T%20-%20Youtube.mp3",
+    "title" : "01. Chương 00 - Hướng Dẫn Đầu Tư Vàng Và Bạc - NGƯỜI VIỆT yêu NGƯỜI VIỆT - Youtube",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/02.%20Ch%C6%B0%C6%A1ng%2001%2002%20-%20H%C6%B0%E1%BB%9Bng%20D%E1%BA%ABn%20%C4%90%E1%BA%A7u%20T%C6%B0%20V%C3%A0ng%20V%C3%A0%20B%E1%BA%A1c%20-%20C%C6%B0%20S%C4%A9%20TH%C3%8DCH%20THI%C3%8AN%20PH%C3%9AC%20-%20Youtube.mp3",
+    "title" : "02. Chương 01 02 - Hướng Dẫn Đầu Tư Vàng Và Bạc - Cư Sĩ THÍCH THIÊN PHÚC - Youtube",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/03.%20Ch%C6%B0%C6%A1ng%2003%2004%20-%20H%C6%B0%E1%BB%9Bng%20D%E1%BA%ABn%20%C4%90%E1%BA%A7u%20T%C6%B0%20V%C3%A0ng%20V%C3%A0%20B%E1%BA%A1c%20-%20NG%C6%AF%E1%BB%9CI%20VI%E1%BB%86T%20y%C3%AAu%20NG%C6%AF%E1%BB%9CI%20VI%E1%BB%86T%20-%20Youtube.mp3",
+    "title" : "03. Chương 03 04 - Hướng Dẫn Đầu Tư Vàng Và Bạc - NGƯỜI VIỆT yêu NGƯỜI VIỆT - Youtube",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/04.%20Ch%C6%B0%C6%A1ng%2005%2006%20-%20H%C6%B0%E1%BB%9Bng%20D%E1%BA%ABn%20%C4%90%E1%BA%A7u%20T%C6%B0%20V%C3%A0ng%20V%C3%A0%20B%E1%BA%A1c%20-%20C%C6%B0%20S%C4%A9%20TH%C3%8DCH%20THI%C3%8AN%20PH%C3%9AC%20-%20Youtube.mp3",
+    "title" : "04. Chương 05 06 - Hướng Dẫn Đầu Tư Vàng Và Bạc - Cư Sĩ THÍCH THIÊN PHÚC - Youtube",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/05.%20Ch%C6%B0%C6%A1ng%2007%20-%20H%C6%B0%E1%BB%9Bng%20D%E1%BA%ABn%20%C4%90%E1%BA%A7u%20T%C6%B0%20V%C3%A0ng%20V%C3%A0%20B%E1%BA%A1c%20-%20NG%C6%AF%E1%BB%9CI%20VI%E1%BB%86T%20y%C3%AAu%20NG%C6%AF%E1%BB%9CI%20VI%E1%BB%86T%20-%20Youtube.mp3",
+    "title" : "05. Chương 07 - Hướng Dẫn Đầu Tư Vàng Và Bạc - NGƯỜI VIỆT yêu NGƯỜI VIỆT - Youtube",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/06.%20Ch%C6%B0%C6%A1ng%2008%20-%20H%C6%B0%E1%BB%9Bng%20D%E1%BA%ABn%20%C4%90%E1%BA%A7u%20T%C6%B0%20V%C3%A0ng%20V%C3%A0%20B%E1%BA%A1c%20-%20C%C6%B0%20S%C4%A9%20TH%C3%8DCH%20THI%C3%8AN%20PH%C3%9AC%20-%20Youtube.mp3",
+    "title" : "06. Chương 08 - Hướng Dẫn Đầu Tư Vàng Và Bạc - Cư Sĩ THÍCH THIÊN PHÚC - Youtube",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/07.%20Ch%C6%B0%C6%A1ng%2009%2010%20-%20H%C6%B0%E1%BB%9Bng%20D%E1%BA%ABn%20%C4%90%E1%BA%A7u%20T%C6%B0%20V%C3%A0ng%20V%C3%A0%20B%E1%BA%A1c%20-%20NG%C6%AF%E1%BB%9CI%20VI%E1%BB%86T%20y%C3%AAu%20NG%C6%AF%E1%BB%9CI%20VI%E1%BB%86T%20-%20Youtube.mp3",
+    "title" : "07. Chương 09 10 - Hướng Dẫn Đầu Tư Vàng Và Bạc - NGƯỜI VIỆT yêu NGƯỜI VIỆT - Youtube",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/08.%20Ch%C6%B0%C6%A1ng%2011%20-%20H%C6%B0%E1%BB%9Bng%20D%E1%BA%ABn%20%C4%90%E1%BA%A7u%20T%C6%B0%20V%C3%A0ng%20V%C3%A0%20B%E1%BA%A1c%20-%20C%C6%B0%20S%C4%A9%20TH%C3%8DCH%20THI%C3%8AN%20PH%C3%9AC%20-%20Youtube.mp3",
+    "title" : "08. Chương 11 - Hướng Dẫn Đầu Tư Vàng Và Bạc - Cư Sĩ THÍCH THIÊN PHÚC - Youtube",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/09.%20Ch%C6%B0%C6%A1ng%2012%2013%20-%20H%C6%B0%E1%BB%9Bng%20D%E1%BA%ABn%20%C4%90%E1%BA%A7u%20T%C6%B0%20V%C3%A0ng%20V%C3%A0%20B%E1%BA%A1c%20-%20NG%C6%AF%E1%BB%9CI%20VI%E1%BB%86T%20y%C3%AAu%20NG%C6%AF%E1%BB%9CI%20VI%E1%BB%86T%20-%20Youtube.mp3",
+    "title" : "09. Chương 12 13 - Hướng Dẫn Đầu Tư Vàng Và Bạc - NGƯỜI VIỆT yêu NGƯỜI VIỆT - Youtube",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/10.%20Ch%C6%B0%C6%A1ng%2014%20-%20H%C6%B0%E1%BB%9Bng%20D%E1%BA%ABn%20%C4%90%E1%BA%A7u%20T%C6%B0%20V%C3%A0ng%20V%C3%A0%20B%E1%BA%A1c%20-%20C%C6%B0%20S%C4%A9%20TH%C3%8DCH%20THI%C3%8AN%20PH%C3%9AC%20-%20Youtube.mp3",
+    "title" : "10. Chương 14 - Hướng Dẫn Đầu Tư Vàng Và Bạc - Cư Sĩ THÍCH THIÊN PHÚC - Youtube",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/HuongDauDauTuVangVaBacC00_Chuan.mp3",
+    "title" : "HuongDauDauTuVangVaBacC00 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/HuongDauDauTuVangVaBacC0102_Chuan.mp3",
+    "title" : "HuongDauDauTuVangVaBacC0102 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/HuongDauDauTuVangVaBacC0304.mp3",
+    "title" : "HuongDauDauTuVangVaBacC0304",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/HuongDauDauTuVangVaBacC0506_Chuan.mp3",
+    "title" : "HuongDauDauTuVangVaBacC0506 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/HuongDauDauTuVangVaBacC07.mp3",
+    "title" : "HuongDauDauTuVangVaBacC07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/HuongDauDauTuVangVaBacC08_Chuan.mp3",
+    "title" : "HuongDauDauTuVangVaBacC08 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/HuongDauDauTuVangVaBacC0910.mp3",
+    "title" : "HuongDauDauTuVangVaBacC0910",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/HuongDauDauTuVangVaBacC11.mp3",
+    "title" : "HuongDauDauTuVangVaBacC11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/HuongDauDauTuVangVaBacC1213_Chuan.mp3",
+    "title" : "HuongDauDauTuVangVaBacC1213 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/HuongDauDauTuVangVaBacC14.mp3",
+    "title" : "HuongDauDauTuVangVaBacC14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-dau-tu-vang-va-bac-v2.sna/HuongDauDauTuVangVaBacC151617.mp3",
+    "title" : "HuongDauDauTuVangVaBacC151617",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
