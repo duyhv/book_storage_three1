@@ -1,0 +1,281 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khi-thien-than-so-hai_20934.html",
+    "title" : "Khi Thiên Thần Sợ Hãi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "C. S. Harris",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-07",
+    "duration" : 36841,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/EPUB/EPUB_378184c87042dc67087483b2da4e7cad.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/IMAGE/IMAGE_378184c87042dc67087483b2da4e7cad.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_7eaa2b85a679d2fd4ed5bcdeee4e238b_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "khi thiên thần sợ hãi 1 (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_7eaa2b85a679d2fd4ed5bcdeee4e238b_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "khi thiên thần sợ hãi 1 (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_d5facc18860386f5bcb26b461dd50e86_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "khi thiên thần sợ hãi 2 (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_d5facc18860386f5bcb26b461dd50e86_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "khi thiên thần sợ hãi 2 (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_6da55c25f8b5946e5aa0034e0abb2eea_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "khi thiên thần sợ hãi 3 (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_6da55c25f8b5946e5aa0034e0abb2eea_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "khi thiên thần sợ hãi 3 (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_6da55c25f8b5946e5aa0034e0abb2eea_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "khi thiên thần sợ hãi 3 (192kbit AAC) (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_77f6f454c407b8411b3d2a8747b87db1_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "khi thiên thần sợ hãi 4 (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_77f6f454c407b8411b3d2a8747b87db1_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "khi thiên thần sợ hãi 4 (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_77f6f454c407b8411b3d2a8747b87db1_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "khi thiên thần sợ hãi 4 (192kbit AAC) (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_e4f58506056d2a097c94e9d5128ec7fc_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "khi thiên thần sợ hãi 5 (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_e4f58506056d2a097c94e9d5128ec7fc_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "khi thiên thần sợ hãi 5 (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_37de33d3a3d78e29ac895b1d54e5e7f3_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "khi thiên thần sợ hãi 6 (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_37de33d3a3d78e29ac895b1d54e5e7f3_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "khi thiên thần sợ hãi 6 (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_b2c99e2a2ee507af3b97aaeb43d1a270_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "khi thiên thần sợ hãi 7 (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_b2c99e2a2ee507af3b97aaeb43d1a270_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "khi thiên thần sợ hãi 7 (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_e30736cd40d40297088db2b33f414884_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "khi thiên thần sợ hãi 8 (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_e30736cd40d40297088db2b33f414884_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "khi thiên thần sợ hãi 8 (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_b97652610d445cefd06c0dcbfa21421f_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "khi thiên thần sợ hãi 9 (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_b97652610d445cefd06c0dcbfa21421f_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "khi thiên thần sợ hãi 9 (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_7eaa2b85a679d2fd4ed5bcdeee4e238b_1.mp3",
+    "title" : "khi thiên thần sợ hãi 1 (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_7eaa2b85a679d2fd4ed5bcdeee4e238b_2.mp3",
+    "title" : "khi thiên thần sợ hãi 1 (192kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_d5facc18860386f5bcb26b461dd50e86_1.mp3",
+    "title" : "khi thiên thần sợ hãi 2 (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_d5facc18860386f5bcb26b461dd50e86_2.mp3",
+    "title" : "khi thiên thần sợ hãi 2 (192kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_6da55c25f8b5946e5aa0034e0abb2eea_1.mp3",
+    "title" : "khi thiên thần sợ hãi 3 (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_6da55c25f8b5946e5aa0034e0abb2eea_2.mp3",
+    "title" : "khi thiên thần sợ hãi 3 (192kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_6da55c25f8b5946e5aa0034e0abb2eea_3.mp3",
+    "title" : "khi thiên thần sợ hãi 3 (192kbit AAC) (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_77f6f454c407b8411b3d2a8747b87db1_1.mp3",
+    "title" : "khi thiên thần sợ hãi 4 (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_77f6f454c407b8411b3d2a8747b87db1_2.mp3",
+    "title" : "khi thiên thần sợ hãi 4 (192kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_77f6f454c407b8411b3d2a8747b87db1_3.mp3",
+    "title" : "khi thiên thần sợ hãi 4 (192kbit AAC) (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_e4f58506056d2a097c94e9d5128ec7fc_1.mp3",
+    "title" : "khi thiên thần sợ hãi 5 (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_e4f58506056d2a097c94e9d5128ec7fc_2.mp3",
+    "title" : "khi thiên thần sợ hãi 5 (192kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_37de33d3a3d78e29ac895b1d54e5e7f3_1.mp3",
+    "title" : "khi thiên thần sợ hãi 6 (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_37de33d3a3d78e29ac895b1d54e5e7f3_2.mp3",
+    "title" : "khi thiên thần sợ hãi 6 (192kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_b2c99e2a2ee507af3b97aaeb43d1a270_1.mp3",
+    "title" : "khi thiên thần sợ hãi 7 (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_b2c99e2a2ee507af3b97aaeb43d1a270_2.mp3",
+    "title" : "khi thiên thần sợ hãi 7 (192kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_e30736cd40d40297088db2b33f414884_1.mp3",
+    "title" : "khi thiên thần sợ hãi 8 (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_e30736cd40d40297088db2b33f414884_2.mp3",
+    "title" : "khi thiên thần sợ hãi 8 (192kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_b97652610d445cefd06c0dcbfa21421f_1.mp3",
+    "title" : "khi thiên thần sợ hãi 9 (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_378184c87042dc67087483b2da4e7cad_b97652610d445cefd06c0dcbfa21421f_2.mp3",
+    "title" : "khi thiên thần sợ hãi 9 (192kbit AAC) (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
