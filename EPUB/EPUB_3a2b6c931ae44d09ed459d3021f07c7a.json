@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mua-ngau-thang-bay_20440.html",
+    "title" : "Mưa Ngâu Tháng Bảy",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bùi Nguyễn Trường Kiên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-03",
+    "duration" : 9846,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/EPUB/EPUB_3a2b6c931ae44d09ed459d3021f07c7a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/IMAGE/IMAGE_3a2b6c931ae44d09ed459d3021f07c7a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_3a2b6c931ae44d09ed459d3021f07c7a_96c7deacc274a98fa47c946d92e33c32_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mua-ngau-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_3a2b6c931ae44d09ed459d3021f07c7a_96c7deacc274a98fa47c946d92e33c32_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mua-ngau-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_3a2b6c931ae44d09ed459d3021f07c7a_046f13fa09981351d0b87c764d6d23e4_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mua-ngau-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_3a2b6c931ae44d09ed459d3021f07c7a_046f13fa09981351d0b87c764d6d23e4_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mua-ngau-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_3a2b6c931ae44d09ed459d3021f07c7a_91f62e2aad602fecae0ef01e72c1ce5c_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mua-ngau-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_3a2b6c931ae44d09ed459d3021f07c7a_91f62e2aad602fecae0ef01e72c1ce5c_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mua-ngau-3 (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_3a2b6c931ae44d09ed459d3021f07c7a_96c7deacc274a98fa47c946d92e33c32_1.mp3",
+    "title" : "mua-ngau-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_3a2b6c931ae44d09ed459d3021f07c7a_96c7deacc274a98fa47c946d92e33c32_2.mp3",
+    "title" : "mua-ngau-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_3a2b6c931ae44d09ed459d3021f07c7a_046f13fa09981351d0b87c764d6d23e4_1.mp3",
+    "title" : "mua-ngau-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_3a2b6c931ae44d09ed459d3021f07c7a_046f13fa09981351d0b87c764d6d23e4_2.mp3",
+    "title" : "mua-ngau-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_3a2b6c931ae44d09ed459d3021f07c7a_91f62e2aad602fecae0ef01e72c1ce5c_1.mp3",
+    "title" : "mua-ngau-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_3a2b6c931ae44d09ed459d3021f07c7a_91f62e2aad602fecae0ef01e72c1ce5c_2.mp3",
+    "title" : "mua-ngau-3 (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
