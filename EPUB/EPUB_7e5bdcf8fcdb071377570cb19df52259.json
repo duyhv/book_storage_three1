@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguoi-vo-hien_19784.html",
+    "title" : "Người Vợ Hiền",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thới Xuyên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-21",
+    "duration" : 8414,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/EPUB/EPUB_7e5bdcf8fcdb071377570cb19df52259.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/IMAGE/IMAGE_7e5bdcf8fcdb071377570cb19df52259.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_7e5bdcf8fcdb071377570cb19df52259_e30b7f496ffa5cb3757fb04e80e5d791_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "nguoi-vo-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_7e5bdcf8fcdb071377570cb19df52259_e30b7f496ffa5cb3757fb04e80e5d791_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "nguoi-vo-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_7e5bdcf8fcdb071377570cb19df52259_e30b7f496ffa5cb3757fb04e80e5d791_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "nguoi-vo-1 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_7e5bdcf8fcdb071377570cb19df52259_a58d322d5c96b4024bc7fabfbdd64f06_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "nguoi-vo-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_7e5bdcf8fcdb071377570cb19df52259_a58d322d5c96b4024bc7fabfbdd64f06_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "nguoi-vo-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_7e5bdcf8fcdb071377570cb19df52259_e30b7f496ffa5cb3757fb04e80e5d791_1.mp3",
+    "title" : "nguoi-vo-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_7e5bdcf8fcdb071377570cb19df52259_e30b7f496ffa5cb3757fb04e80e5d791_2.mp3",
+    "title" : "nguoi-vo-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_7e5bdcf8fcdb071377570cb19df52259_e30b7f496ffa5cb3757fb04e80e5d791_3.mp3",
+    "title" : "nguoi-vo-1 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_7e5bdcf8fcdb071377570cb19df52259_a58d322d5c96b4024bc7fabfbdd64f06_1.mp3",
+    "title" : "nguoi-vo-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_7e5bdcf8fcdb071377570cb19df52259_a58d322d5c96b4024bc7fabfbdd64f06_2.mp3",
+    "title" : "nguoi-vo-2 (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
