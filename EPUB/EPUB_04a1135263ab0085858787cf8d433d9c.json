@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/EPUB/EPUB_04a1135263ab0085858787cf8d433d9c.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three1/main/EPUB/EPUB_04a1135263ab0085858787cf8d433d9c.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/IMAGE/IMAGE_04a1135263ab0085858787cf8d433d9c.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three1/main/IMAGE/IMAGE_04a1135263ab0085858787cf8d433d9c.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_04a1135263ab0085858787cf8d433d9c_bb2a005d03c8d49782e0949de7fa030e.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_04a1135263ab0085858787cf8d433d9c_bb2a005d03c8d49782e0949de7fa030e.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5657,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_04a1135263ab0085858787cf8d433d9c_d830426cf975b629a94b874e7ae0ba7a_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_04a1135263ab0085858787cf8d433d9c_d830426cf975b629a94b874e7ae0ba7a_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_04a1135263ab0085858787cf8d433d9c_d830426cf975b629a94b874e7ae0ba7a_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_04a1135263ab0085858787cf8d433d9c_d830426cf975b629a94b874e7ae0ba7a_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_04a1135263ab0085858787cf8d433d9c_d830426cf975b629a94b874e7ae0ba7a_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_04a1135263ab0085858787cf8d433d9c_d830426cf975b629a94b874e7ae0ba7a_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_04a1135263ab0085858787cf8d433d9c_bb2a005d03c8d49782e0949de7fa030e.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_04a1135263ab0085858787cf8d433d9c_bb2a005d03c8d49782e0949de7fa030e.mp3",
     "title" : "bi-mat-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_04a1135263ab0085858787cf8d433d9c_d830426cf975b629a94b874e7ae0ba7a_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_04a1135263ab0085858787cf8d433d9c_d830426cf975b629a94b874e7ae0ba7a_1.mp3",
     "title" : "bi-mat-2 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_04a1135263ab0085858787cf8d433d9c_d830426cf975b629a94b874e7ae0ba7a_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_04a1135263ab0085858787cf8d433d9c_d830426cf975b629a94b874e7ae0ba7a_2.mp3",
     "title" : "bi-mat-2 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_04a1135263ab0085858787cf8d433d9c_d830426cf975b629a94b874e7ae0ba7a_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_04a1135263ab0085858787cf8d433d9c_d830426cf975b629a94b874e7ae0ba7a_3.mp3",
     "title" : "bi-mat-2 (3)",
     "children" : [ ]
   } ],

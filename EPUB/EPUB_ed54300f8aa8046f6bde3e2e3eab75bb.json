@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/EPUB/EPUB_ed54300f8aa8046f6bde3e2e3eab75bb.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three1/main/EPUB/EPUB_ed54300f8aa8046f6bde3e2e3eab75bb.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/IMAGE/IMAGE_ed54300f8aa8046f6bde3e2e3eab75bb.jpeg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three1/main/IMAGE/IMAGE_ed54300f8aa8046f6bde3e2e3eab75bb.jpeg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_ed54300f8aa8046f6bde3e2e3eab75bb_c283e9458300b21c52b71ffaf3914111.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_ed54300f8aa8046f6bde3e2e3eab75bb_c283e9458300b21c52b71ffaf3914111.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 412,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_ed54300f8aa8046f6bde3e2e3eab75bb_8ee42857de173baaa22be2381d2d9cdc.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_ed54300f8aa8046f6bde3e2e3eab75bb_8ee42857de173baaa22be2381d2d9cdc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 701,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_ed54300f8aa8046f6bde3e2e3eab75bb_636371d10dff5e6570311b4d27026831_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_ed54300f8aa8046f6bde3e2e3eab75bb_636371d10dff5e6570311b4d27026831_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_ed54300f8aa8046f6bde3e2e3eab75bb_636371d10dff5e6570311b4d27026831_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_ed54300f8aa8046f6bde3e2e3eab75bb_636371d10dff5e6570311b4d27026831_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_ed54300f8aa8046f6bde3e2e3eab75bb_c283e9458300b21c52b71ffaf3914111.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_ed54300f8aa8046f6bde3e2e3eab75bb_c283e9458300b21c52b71ffaf3914111.mp3",
     "title" : "01.GioiThieu DayTreBietCachTieuTien",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_ed54300f8aa8046f6bde3e2e3eab75bb_8ee42857de173baaa22be2381d2d9cdc.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_ed54300f8aa8046f6bde3e2e3eab75bb_8ee42857de173baaa22be2381d2d9cdc.mp3",
     "title" : "02.C01 DayTreBietCachNhanBietTien DayTreBietCachTieuTien",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_ed54300f8aa8046f6bde3e2e3eab75bb_636371d10dff5e6570311b4d27026831_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_ed54300f8aa8046f6bde3e2e3eab75bb_636371d10dff5e6570311b4d27026831_1.mp3",
     "title" : "03.C02 BoiDuongChoTreKhaNangQuanLyTien DayTreBietCachTieuTien (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_ed54300f8aa8046f6bde3e2e3eab75bb_636371d10dff5e6570311b4d27026831_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_ed54300f8aa8046f6bde3e2e3eab75bb_636371d10dff5e6570311b4d27026831_2.mp3",
     "title" : "03.C02 BoiDuongChoTreKhaNangQuanLyTien DayTreBietCachTieuTien (2)",
     "children" : [ ]
   } ],
