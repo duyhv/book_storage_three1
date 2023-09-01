@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/day-tre-biet-cach-tieu-tien_19422.html",
+    "title" : "Dạy Trẻ Biết Cách Tiêu Tiền",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Thị Thanh Liêm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-22",
+    "duration" : 3581,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/EPUB/EPUB_ed54300f8aa8046f6bde3e2e3eab75bb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/IMAGE/IMAGE_ed54300f8aa8046f6bde3e2e3eab75bb.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_ed54300f8aa8046f6bde3e2e3eab75bb_c283e9458300b21c52b71ffaf3914111.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 412,
+    "title" : "01.GioiThieu DayTreBietCachTieuTien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_ed54300f8aa8046f6bde3e2e3eab75bb_8ee42857de173baaa22be2381d2d9cdc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 701,
+    "title" : "02.C01 DayTreBietCachNhanBietTien DayTreBietCachTieuTien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_ed54300f8aa8046f6bde3e2e3eab75bb_636371d10dff5e6570311b4d27026831_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03.C02 BoiDuongChoTreKhaNangQuanLyTien DayTreBietCachTieuTien (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_ed54300f8aa8046f6bde3e2e3eab75bb_636371d10dff5e6570311b4d27026831_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03.C02 BoiDuongChoTreKhaNangQuanLyTien DayTreBietCachTieuTien (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_ed54300f8aa8046f6bde3e2e3eab75bb_c283e9458300b21c52b71ffaf3914111.mp3",
+    "title" : "01.GioiThieu DayTreBietCachTieuTien",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_ed54300f8aa8046f6bde3e2e3eab75bb_8ee42857de173baaa22be2381d2d9cdc.mp3",
+    "title" : "02.C01 DayTreBietCachNhanBietTien DayTreBietCachTieuTien",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_ed54300f8aa8046f6bde3e2e3eab75bb_636371d10dff5e6570311b4d27026831_1.mp3",
+    "title" : "03.C02 BoiDuongChoTreKhaNangQuanLyTien DayTreBietCachTieuTien (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_ed54300f8aa8046f6bde3e2e3eab75bb_636371d10dff5e6570311b4d27026831_2.mp3",
+    "title" : "03.C02 BoiDuongChoTreKhaNangQuanLyTien DayTreBietCachTieuTien (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
