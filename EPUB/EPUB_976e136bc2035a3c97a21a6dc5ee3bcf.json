@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ky-nang-de-can-bang-giua-cong-viec-va-cuoc-song_20755.html",
+    "title" : "Kỹ Năng Để Cân Bằng Giữa Công Việc Và Cuộc Sống",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Srewart D. Friedman",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-05",
+    "duration" : 9898,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/EPUB/EPUB_976e136bc2035a3c97a21a6dc5ee3bcf.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/IMAGE/IMAGE_976e136bc2035a3c97a21a6dc5ee3bcf.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_4d8fccdab22e4a9466913b3720eb2f81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 412,
+    "title" : "Lời Giới Thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_f17f8636ece76f3a3b9e0179e10472ff.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 768,
+    "title" : "Mặt Trái Của Thành Công",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_1783bd6e65b64f39adcc82cefbfd3f0a.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1396,
+    "title" : "Các Nhân Tố Điều Tiết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_5500e5a4c9eb8fbd91227adcca853e9c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2344,
+    "title" : "Chuyến Viếng Thăm Của Jo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_62d345080db42808d9ab4c6f1718eaba.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2584,
+    "title" : "Hãy Vận Động Về Sức Khỏe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_f972044035aed1b296771702ee931f70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1404,
+    "title" : "Kế Hoạch Thay Đổi Cuộc Sống",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_30d30afcc50b292dfa0630aec9a42167.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 990,
+    "title" : "Giúp Đỡ Người Khác",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_4d8fccdab22e4a9466913b3720eb2f81.mp3",
+    "title" : "Lời Giới Thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_f17f8636ece76f3a3b9e0179e10472ff.mp3",
+    "title" : "Mặt Trái Của Thành Công",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_1783bd6e65b64f39adcc82cefbfd3f0a.mp3",
+    "title" : "Các Nhân Tố Điều Tiết",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_5500e5a4c9eb8fbd91227adcca853e9c.mp3",
+    "title" : "Chuyến Viếng Thăm Của Jo",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_62d345080db42808d9ab4c6f1718eaba.mp3",
+    "title" : "Hãy Vận Động Về Sức Khỏe",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_f972044035aed1b296771702ee931f70.mp3",
+    "title" : "Kế Hoạch Thay Đổi Cuộc Sống",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_30d30afcc50b292dfa0630aec9a42167.mp3",
+    "title" : "Giúp Đỡ Người Khác",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
