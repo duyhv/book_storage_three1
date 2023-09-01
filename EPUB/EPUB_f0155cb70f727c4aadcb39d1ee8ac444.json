@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/no-doi_19392.html",
+    "title" : "Nợ Đời",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-22",
+    "duration" : 24803,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/EPUB/EPUB_f0155cb70f727c4aadcb39d1ee8ac444.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/IMAGE/IMAGE_f0155cb70f727c4aadcb39d1ee8ac444.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f0155cb70f727c4aadcb39d1ee8ac444_3b95d2c5754a08f1c9c0d914c64ad8ef_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f0155cb70f727c4aadcb39d1ee8ac444_3b95d2c5754a08f1c9c0d914c64ad8ef_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f0155cb70f727c4aadcb39d1ee8ac444_8f9d8f2089af829272d2c15f49d9d3d5_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f0155cb70f727c4aadcb39d1ee8ac444_8f9d8f2089af829272d2c15f49d9d3d5_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f0155cb70f727c4aadcb39d1ee8ac444_18aa8bf4e3aac970f0f4b6ad532bb10f_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f0155cb70f727c4aadcb39d1ee8ac444_18aa8bf4e3aac970f0f4b6ad532bb10f_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f0155cb70f727c4aadcb39d1ee8ac444_18aa8bf4e3aac970f0f4b6ad532bb10f_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (3)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f0155cb70f727c4aadcb39d1ee8ac444_3b95d2c5754a08f1c9c0d914c64ad8ef_1.mp3",
+    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f0155cb70f727c4aadcb39d1ee8ac444_3b95d2c5754a08f1c9c0d914c64ad8ef_2.mp3",
+    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f0155cb70f727c4aadcb39d1ee8ac444_8f9d8f2089af829272d2c15f49d9d3d5_1.mp3",
+    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f0155cb70f727c4aadcb39d1ee8ac444_8f9d8f2089af829272d2c15f49d9d3d5_2.mp3",
+    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f0155cb70f727c4aadcb39d1ee8ac444_18aa8bf4e3aac970f0f4b6ad532bb10f_1.mp3",
+    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f0155cb70f727c4aadcb39d1ee8ac444_18aa8bf4e3aac970f0f4b6ad532bb10f_2.mp3",
+    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f0155cb70f727c4aadcb39d1ee8ac444_18aa8bf4e3aac970f0f4b6ad532bb10f_3.mp3",
+    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (3)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
