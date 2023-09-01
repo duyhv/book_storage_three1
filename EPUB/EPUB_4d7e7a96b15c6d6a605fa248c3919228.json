@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/noi-voi-nguoi-xuat-gia-tre-tuoi_19274.html",
+    "title" : "Nói Với Người Xuất Gia Trẻ Tuổi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-17",
+    "duration" : 4181,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/EPUB/EPUB_4d7e7a96b15c6d6a605fa248c3919228.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/IMAGE/IMAGE_4d7e7a96b15c6d6a605fa248c3919228.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_4d7e7a96b15c6d6a605fa248c3919228_a6bffdfc40d8ec61f5335bd7c00078e0.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4181,
+    "title" : "noi-voi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_4d7e7a96b15c6d6a605fa248c3919228_a6bffdfc40d8ec61f5335bd7c00078e0.mp3",
+    "title" : "noi-voi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
