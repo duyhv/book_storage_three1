@@ -1,0 +1,341 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ki-uc-cua-mot-nguoi-linh-trinh-sat-su-307_20710.html",
+    "title" : "Kí Ức Của Một Người Lính Trinh Sát Sư 307",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Võ Văn Hà",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-05",
+    "duration" : 46682,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/EPUB/EPUB_dee15569f88e557b21e2c1165c975f37.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/IMAGE/IMAGE_dee15569f88e557b21e2c1165c975f37.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_ed76e72aae9e5bf8a44830d3e8ee2296_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[VVH#1] Trận quyết chiến trên cao điểm 328 I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_ed76e72aae9e5bf8a44830d3e8ee2296_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[VVH#1] Trận quyết chiến trên cao điểm 328 I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_6b7af17c0fca5f9b5ea5ff9b3058f77f_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[VVH#2] Chuẩn bị cho chiến dịch đánh lớn I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_6b7af17c0fca5f9b5ea5ff9b3058f77f_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[VVH#2] Chuẩn bị cho chiến dịch đánh lớn I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_f1d124a91fe77a77816b4ec45d3b525d_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[VVH#3] Tiếng thằng pốt rú lên mấy tiếng khò...khò...khò... I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_f1d124a91fe77a77816b4ec45d3b525d_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[VVH#3] Tiếng thằng pốt rú lên mấy tiếng khò...khò...khò... I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_6a18c31ec2240ededc98d9d176f47794_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[VVH#4] Lũ polpot bỏ chạy tán loạn ... trên đường 19 I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_6a18c31ec2240ededc98d9d176f47794_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[VVH#4] Lũ polpot bỏ chạy tán loạn ... trên đường 19 I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_6a18c31ec2240ededc98d9d176f47794_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[VVH#4] Lũ polpot bỏ chạy tán loạn ... trên đường 19 I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_ffca4d86e7df0ca86500e3fcb9512a42_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[VVH#5] Cuộc phục thù trên bãi lầy Dam-phet I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_ffca4d86e7df0ca86500e3fcb9512a42_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[VVH#5] Cuộc phục thù trên bãi lầy Dam-phet I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_47cafb0f6073fc4e7bbf6f2ec7f37913_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[VVH#6] Đụng độ bọn Thái Lan trên con đường tử thần I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_47cafb0f6073fc4e7bbf6f2ec7f37913_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[VVH#6] Đụng độ bọn Thái Lan trên con đường tử thần I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_47cafb0f6073fc4e7bbf6f2ec7f37913_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[VVH#6] Đụng độ bọn Thái Lan trên con đường tử thần I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_f2caa22b8d43fc908b5f8a20f84fe7f5_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[VVH#7] Trận đánh PHUM KHÔNG TÊN I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_f2caa22b8d43fc908b5f8a20f84fe7f5_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[VVH#7] Trận đánh PHUM KHÔNG TÊN I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_57b8c2e39fcf2dd42835138ef7062c7e_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[VVH#8] Đài quan sát bọn polpot BÍ MẬT I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_57b8c2e39fcf2dd42835138ef7062c7e_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[VVH#8] Đài quan sát bọn polpot BÍ MẬT I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_7870cc618d08599c7455f59d69ce388b_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[VVH#9] ÚP THÌA trận đánh kỳ lạ của quân TN I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_7870cc618d08599c7455f59d69ce388b_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[VVH#9] ÚP THÌA trận đánh kỳ lạ của quân TN I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_7870cc618d08599c7455f59d69ce388b_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[VVH#9] ÚP THÌA trận đánh kỳ lạ của quân TN I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_c46452475c974bb5aaaad884507661c9_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "trinh-sat-10 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_c46452475c974bb5aaaad884507661c9_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "trinh-sat-10 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_b80ee93163c9549b7cfff56885ea96c1_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[VVH#11] Thua đau tại đỉnh 547 I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_b80ee93163c9549b7cfff56885ea96c1_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[VVH#11] Thua đau tại đỉnh 547 I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_ed76e72aae9e5bf8a44830d3e8ee2296_1.mp3",
+    "title" : "[VVH#1] Trận quyết chiến trên cao điểm 328 I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_ed76e72aae9e5bf8a44830d3e8ee2296_2.mp3",
+    "title" : "[VVH#1] Trận quyết chiến trên cao điểm 328 I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_6b7af17c0fca5f9b5ea5ff9b3058f77f_1.mp3",
+    "title" : "[VVH#2] Chuẩn bị cho chiến dịch đánh lớn I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_6b7af17c0fca5f9b5ea5ff9b3058f77f_2.mp3",
+    "title" : "[VVH#2] Chuẩn bị cho chiến dịch đánh lớn I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_f1d124a91fe77a77816b4ec45d3b525d_1.mp3",
+    "title" : "[VVH#3] Tiếng thằng pốt rú lên mấy tiếng khò...khò...khò... I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_f1d124a91fe77a77816b4ec45d3b525d_2.mp3",
+    "title" : "[VVH#3] Tiếng thằng pốt rú lên mấy tiếng khò...khò...khò... I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_6a18c31ec2240ededc98d9d176f47794_1.mp3",
+    "title" : "[VVH#4] Lũ polpot bỏ chạy tán loạn ... trên đường 19 I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_6a18c31ec2240ededc98d9d176f47794_2.mp3",
+    "title" : "[VVH#4] Lũ polpot bỏ chạy tán loạn ... trên đường 19 I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_6a18c31ec2240ededc98d9d176f47794_3.mp3",
+    "title" : "[VVH#4] Lũ polpot bỏ chạy tán loạn ... trên đường 19 I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_ffca4d86e7df0ca86500e3fcb9512a42_1.mp3",
+    "title" : "[VVH#5] Cuộc phục thù trên bãi lầy Dam-phet I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_ffca4d86e7df0ca86500e3fcb9512a42_2.mp3",
+    "title" : "[VVH#5] Cuộc phục thù trên bãi lầy Dam-phet I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_47cafb0f6073fc4e7bbf6f2ec7f37913_1.mp3",
+    "title" : "[VVH#6] Đụng độ bọn Thái Lan trên con đường tử thần I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_47cafb0f6073fc4e7bbf6f2ec7f37913_2.mp3",
+    "title" : "[VVH#6] Đụng độ bọn Thái Lan trên con đường tử thần I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_47cafb0f6073fc4e7bbf6f2ec7f37913_3.mp3",
+    "title" : "[VVH#6] Đụng độ bọn Thái Lan trên con đường tử thần I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_f2caa22b8d43fc908b5f8a20f84fe7f5_1.mp3",
+    "title" : "[VVH#7] Trận đánh PHUM KHÔNG TÊN I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_f2caa22b8d43fc908b5f8a20f84fe7f5_2.mp3",
+    "title" : "[VVH#7] Trận đánh PHUM KHÔNG TÊN I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_57b8c2e39fcf2dd42835138ef7062c7e_1.mp3",
+    "title" : "[VVH#8] Đài quan sát bọn polpot BÍ MẬT I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_57b8c2e39fcf2dd42835138ef7062c7e_2.mp3",
+    "title" : "[VVH#8] Đài quan sát bọn polpot BÍ MẬT I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_7870cc618d08599c7455f59d69ce388b_1.mp3",
+    "title" : "[VVH#9] ÚP THÌA trận đánh kỳ lạ của quân TN I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_7870cc618d08599c7455f59d69ce388b_2.mp3",
+    "title" : "[VVH#9] ÚP THÌA trận đánh kỳ lạ của quân TN I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_7870cc618d08599c7455f59d69ce388b_3.mp3",
+    "title" : "[VVH#9] ÚP THÌA trận đánh kỳ lạ của quân TN I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_c46452475c974bb5aaaad884507661c9_1.mp3",
+    "title" : "trinh-sat-10 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_c46452475c974bb5aaaad884507661c9_2.mp3",
+    "title" : "trinh-sat-10 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_b80ee93163c9549b7cfff56885ea96c1_1.mp3",
+    "title" : "[VVH#11] Thua đau tại đỉnh 547 I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_dee15569f88e557b21e2c1165c975f37_b80ee93163c9549b7cfff56885ea96c1_2.mp3",
+    "title" : "[VVH#11] Thua đau tại đỉnh 547 I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
