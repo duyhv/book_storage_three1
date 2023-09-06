@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-22",
+    "published" : "2023-09-06",
     "duration" : 11001,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,87 +26,51 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three1/main/EPUB/EPUB_d41d66d49027f10f89c6893314b68c98.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three1/main/EPUB/EPUB_d41d66d49027f10f89c6893314b68c98.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three1/main/IMAGE/IMAGE_d41d66d49027f10f89c6893314b68c98.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three1/main/IMAGE/IMAGE_d41d66d49027f10f89c6893314b68c98.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_d41d66d49027f10f89c6893314b68c98_335ae8b979ffa842c89cc101f069d2c7_1.mp3",
+    "href" : "https://archive.org/download/mot-chu-1/mot-chu-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "mot-chu-1 (1)",
+    "duration" : 3720,
+    "title" : "mot-chu-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_d41d66d49027f10f89c6893314b68c98_335ae8b979ffa842c89cc101f069d2c7_2.mp3",
+    "href" : "https://archive.org/download/mot-chu-1/mot-chu-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "mot-chu-1 (2)",
+    "duration" : 3720,
+    "title" : "mot-chu-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_d41d66d49027f10f89c6893314b68c98_60ed432d9a01f4b0bf0bb05c4b317fe5_1.mp3",
+    "href" : "https://archive.org/download/mot-chu-1/mot-chu-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "mot-chu-2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_d41d66d49027f10f89c6893314b68c98_60ed432d9a01f4b0bf0bb05c4b317fe5_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "mot-chu-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_d41d66d49027f10f89c6893314b68c98_087fcc6243708621a7c4b174388ce1c1_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "mot-chu-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_d41d66d49027f10f89c6893314b68c98_087fcc6243708621a7c4b174388ce1c1_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "mot-chu-3 (2)",
+    "duration" : 3561,
+    "title" : "mot-chu-3",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_d41d66d49027f10f89c6893314b68c98_335ae8b979ffa842c89cc101f069d2c7_1.mp3",
-    "title" : "mot-chu-1 (1)",
+    "href" : "https://archive.org/download/mot-chu-1/mot-chu-1.mp3",
+    "title" : "mot-chu-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_d41d66d49027f10f89c6893314b68c98_335ae8b979ffa842c89cc101f069d2c7_2.mp3",
-    "title" : "mot-chu-1 (2)",
+    "href" : "https://archive.org/download/mot-chu-1/mot-chu-2.mp3",
+    "title" : "mot-chu-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_d41d66d49027f10f89c6893314b68c98_60ed432d9a01f4b0bf0bb05c4b317fe5_1.mp3",
-    "title" : "mot-chu-2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_d41d66d49027f10f89c6893314b68c98_60ed432d9a01f4b0bf0bb05c4b317fe5_2.mp3",
-    "title" : "mot-chu-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_d41d66d49027f10f89c6893314b68c98_087fcc6243708621a7c4b174388ce1c1_1.mp3",
-    "title" : "mot-chu-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_d41d66d49027f10f89c6893314b68c98_087fcc6243708621a7c4b174388ce1c1_2.mp3",
-    "title" : "mot-chu-3 (2)",
+    "href" : "https://archive.org/download/mot-chu-1/mot-chu-3.mp3",
+    "title" : "mot-chu-3",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

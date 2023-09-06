@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
-    "duration" : 9898,
+    "published" : "2023-09-06",
+    "duration" : 19796,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three1/main/EPUB/EPUB_976e136bc2035a3c97a21a6dc5ee3bcf.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three1/main/EPUB/EPUB_976e136bc2035a3c97a21a6dc5ee3bcf.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three1/main/IMAGE/IMAGE_976e136bc2035a3c97a21a6dc5ee3bcf.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three1/main/IMAGE/IMAGE_976e136bc2035a3c97a21a6dc5ee3bcf.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_4d8fccdab22e4a9466913b3720eb2f81.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-can-bang-cong-viec-va-cuoc-song/01.Can-Bang-Cong-Viec-va-Cuoc-Song_%28KenhSachNoi.Com%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 412,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_f17f8636ece76f3a3b9e0179e10472ff.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-can-bang-cong-viec-va-cuoc-song/02.Can-Bang-Cong-Viec-va-Cuoc-Song_%28KenhSachNoi.Com%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 768,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_1783bd6e65b64f39adcc82cefbfd3f0a.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-can-bang-cong-viec-va-cuoc-song/03.Can-Bang-Cong-Viec-va-Cuoc-Song_%28KenhSachNoi.Com%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1396,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_5500e5a4c9eb8fbd91227adcca853e9c.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-can-bang-cong-viec-va-cuoc-song/04.Can-Bang-Cong-Viec-va-Cuoc-Song_%28KenhSachNoi.Com%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2344,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_62d345080db42808d9ab4c6f1718eaba.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-can-bang-cong-viec-va-cuoc-song/05.Can-Bang-Cong-Viec-va-Cuoc-Song_%28KenhSachNoi.Com%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2584,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_f972044035aed1b296771702ee931f70.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-can-bang-cong-viec-va-cuoc-song/06.Can-Bang-Cong-Viec-va-Cuoc-Song_%28KenhSachNoi.Com%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1404,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_30d30afcc50b292dfa0630aec9a42167.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-can-bang-cong-viec-va-cuoc-song/07.Can-Bang-Cong-Viec-va-Cuoc-Song_%28KenhSachNoi.Com%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 990,
@@ -93,31 +93,31 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_4d8fccdab22e4a9466913b3720eb2f81.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-can-bang-cong-viec-va-cuoc-song/01.Can-Bang-Cong-Viec-va-Cuoc-Song_%28KenhSachNoi.Com%29.mp3",
     "title" : "Lời Giới Thiệu",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_f17f8636ece76f3a3b9e0179e10472ff.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-can-bang-cong-viec-va-cuoc-song/02.Can-Bang-Cong-Viec-va-Cuoc-Song_%28KenhSachNoi.Com%29.mp3",
     "title" : "Mặt Trái Của Thành Công",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_1783bd6e65b64f39adcc82cefbfd3f0a.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-can-bang-cong-viec-va-cuoc-song/03.Can-Bang-Cong-Viec-va-Cuoc-Song_%28KenhSachNoi.Com%29.mp3",
     "title" : "Các Nhân Tố Điều Tiết",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_5500e5a4c9eb8fbd91227adcca853e9c.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-can-bang-cong-viec-va-cuoc-song/04.Can-Bang-Cong-Viec-va-Cuoc-Song_%28KenhSachNoi.Com%29.mp3",
     "title" : "Chuyến Viếng Thăm Của Jo",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_62d345080db42808d9ab4c6f1718eaba.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-can-bang-cong-viec-va-cuoc-song/05.Can-Bang-Cong-Viec-va-Cuoc-Song_%28KenhSachNoi.Com%29.mp3",
     "title" : "Hãy Vận Động Về Sức Khỏe",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_f972044035aed1b296771702ee931f70.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-can-bang-cong-viec-va-cuoc-song/06.Can-Bang-Cong-Viec-va-Cuoc-Song_%28KenhSachNoi.Com%29.mp3",
     "title" : "Kế Hoạch Thay Đổi Cuộc Sống",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_976e136bc2035a3c97a21a6dc5ee3bcf_30d30afcc50b292dfa0630aec9a42167.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-can-bang-cong-viec-va-cuoc-song/07.Can-Bang-Cong-Viec-va-Cuoc-Song_%28KenhSachNoi.Com%29.mp3",
     "title" : "Giúp Đỡ Người Khác",
     "children" : [ ]
   } ],

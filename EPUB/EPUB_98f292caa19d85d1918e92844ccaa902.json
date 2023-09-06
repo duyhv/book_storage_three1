@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-26",
-    "duration" : 15316,
+    "published" : "2023-09-06",
+    "duration" : 30632,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/EPUB/EPUB_98f292caa19d85d1918e92844ccaa902.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three1/main/EPUB/EPUB_98f292caa19d85d1918e92844ccaa902.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/IMAGE/IMAGE_98f292caa19d85d1918e92844ccaa902.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three1/main/IMAGE/IMAGE_98f292caa19d85d1918e92844ccaa902.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/AUDIO/AUDIO_98f292caa19d85d1918e92844ccaa902_40771ec15c3b895e903bb3c8db0a4bbc.mp3",
+    "href" : "https://archive.org/download/chiyeusukhonghoanmycuaanh/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4170,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/AUDIO/AUDIO_98f292caa19d85d1918e92844ccaa902_ca56cc08dae58451969783193bec5fec.mp3",
+    "href" : "https://archive.org/download/chiyeusukhonghoanmycuaanh/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4101,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/AUDIO/AUDIO_98f292caa19d85d1918e92844ccaa902_8354791fb489e34e3f2450f007d51c2f.mp3",
+    "href" : "https://archive.org/download/chiyeusukhonghoanmycuaanh/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/AUDIO/AUDIO_98f292caa19d85d1918e92844ccaa902_cd9c142f567fc55a04d560e3fa5cf7d7.mp3",
+    "href" : "https://archive.org/download/chiyeusukhonghoanmycuaanh/4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3402,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/AUDIO/AUDIO_98f292caa19d85d1918e92844ccaa902_40771ec15c3b895e903bb3c8db0a4bbc.mp3",
+    "href" : "https://archive.org/download/chiyeusukhonghoanmycuaanh/1.mp3",
     "title" : "TRUYỆN NGÔN TÌNH SỦNG NHIỀU CẢNH H - MC BẢO ANH",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/AUDIO/AUDIO_98f292caa19d85d1918e92844ccaa902_ca56cc08dae58451969783193bec5fec.mp3",
+    "href" : "https://archive.org/download/chiyeusukhonghoanmycuaanh/2.mp3",
     "title" : "TRUYỆN NGÔN TÌNH SỦNG NHIỀU CẢNH H - MC BẢO ANH",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/AUDIO/AUDIO_98f292caa19d85d1918e92844ccaa902_8354791fb489e34e3f2450f007d51c2f.mp3",
+    "href" : "https://archive.org/download/chiyeusukhonghoanmycuaanh/3.mp3",
     "title" : "TRUYỆN NGÔN TÌNH SỦNG NHIỀU CẢNH H - MC BẢO ANH",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/AUDIO/AUDIO_98f292caa19d85d1918e92844ccaa902_cd9c142f567fc55a04d560e3fa5cf7d7.mp3",
+    "href" : "https://archive.org/download/chiyeusukhonghoanmycuaanh/4.mp3",
     "title" : "TRUYỆN NGÔN TÌNH SỦNG NHIỀU CẢNH H - MC BẢO ANH",
     "children" : [ ]
   } ],

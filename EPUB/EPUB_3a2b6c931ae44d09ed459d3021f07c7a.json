@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-03",
+    "published" : "2023-09-06",
     "duration" : 9846,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,87 +26,51 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three1/main/EPUB/EPUB_3a2b6c931ae44d09ed459d3021f07c7a.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three1/main/EPUB/EPUB_3a2b6c931ae44d09ed459d3021f07c7a.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three1/main/IMAGE/IMAGE_3a2b6c931ae44d09ed459d3021f07c7a.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three1/main/IMAGE/IMAGE_3a2b6c931ae44d09ed459d3021f07c7a.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_3a2b6c931ae44d09ed459d3021f07c7a_96c7deacc274a98fa47c946d92e33c32_1.mp3",
+    "href" : "https://archive.org/download/mua-ngau-2/mua-ngau-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "mua-ngau-1 (1)",
+    "duration" : 3368,
+    "title" : "mua-ngau-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_3a2b6c931ae44d09ed459d3021f07c7a_96c7deacc274a98fa47c946d92e33c32_2.mp3",
+    "href" : "https://archive.org/download/mua-ngau-2/mua-ngau-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "mua-ngau-1 (2)",
+    "duration" : 3408,
+    "title" : "mua-ngau-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_3a2b6c931ae44d09ed459d3021f07c7a_046f13fa09981351d0b87c764d6d23e4_1.mp3",
+    "href" : "https://archive.org/download/mua-ngau-2/mua-ngau-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "mua-ngau-2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_3a2b6c931ae44d09ed459d3021f07c7a_046f13fa09981351d0b87c764d6d23e4_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "mua-ngau-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_3a2b6c931ae44d09ed459d3021f07c7a_91f62e2aad602fecae0ef01e72c1ce5c_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "mua-ngau-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_3a2b6c931ae44d09ed459d3021f07c7a_91f62e2aad602fecae0ef01e72c1ce5c_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "mua-ngau-3 (2)",
+    "duration" : 3070,
+    "title" : "mua-ngau-3",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_3a2b6c931ae44d09ed459d3021f07c7a_96c7deacc274a98fa47c946d92e33c32_1.mp3",
-    "title" : "mua-ngau-1 (1)",
+    "href" : "https://archive.org/download/mua-ngau-2/mua-ngau-1.mp3",
+    "title" : "mua-ngau-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_3a2b6c931ae44d09ed459d3021f07c7a_96c7deacc274a98fa47c946d92e33c32_2.mp3",
-    "title" : "mua-ngau-1 (2)",
+    "href" : "https://archive.org/download/mua-ngau-2/mua-ngau-2.mp3",
+    "title" : "mua-ngau-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_3a2b6c931ae44d09ed459d3021f07c7a_046f13fa09981351d0b87c764d6d23e4_1.mp3",
-    "title" : "mua-ngau-2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_3a2b6c931ae44d09ed459d3021f07c7a_046f13fa09981351d0b87c764d6d23e4_2.mp3",
-    "title" : "mua-ngau-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_3a2b6c931ae44d09ed459d3021f07c7a_91f62e2aad602fecae0ef01e72c1ce5c_1.mp3",
-    "title" : "mua-ngau-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_3a2b6c931ae44d09ed459d3021f07c7a_91f62e2aad602fecae0ef01e72c1ce5c_2.mp3",
-    "title" : "mua-ngau-3 (2)",
+    "href" : "https://archive.org/download/mua-ngau-2/mua-ngau-3.mp3",
+    "title" : "mua-ngau-3",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

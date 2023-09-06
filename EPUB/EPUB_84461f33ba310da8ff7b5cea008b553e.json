@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
+    "published" : "2023-09-06",
     "duration" : 27472,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,183 +26,51 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three1/main/EPUB/EPUB_84461f33ba310da8ff7b5cea008b553e.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three1/main/EPUB/EPUB_84461f33ba310da8ff7b5cea008b553e.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three1/main/IMAGE/IMAGE_84461f33ba310da8ff7b5cea008b553e.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three1/main/IMAGE/IMAGE_84461f33ba310da8ff7b5cea008b553e.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_cfac8679a34bf6a4d36c6f7303e3aea7_1.mp3",
+    "href" : "https://archive.org/download/linh-su-2/linh-su-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 01 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (1)",
+    "duration" : 9625,
+    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 01 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_cfac8679a34bf6a4d36c6f7303e3aea7_2.mp3",
+    "href" : "https://archive.org/download/linh-su-2/linh-su-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 01 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (2)",
+    "duration" : 9792,
+    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 02 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_cfac8679a34bf6a4d36c6f7303e3aea7_3.mp3",
+    "href" : "https://archive.org/download/linh-su-2/linh-su-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 01 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_cfac8679a34bf6a4d36c6f7303e3aea7_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 01 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_cfac8679a34bf6a4d36c6f7303e3aea7_5.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 01 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (5)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_c19035ee01a166c502e0010c095afd9d_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 02 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_c19035ee01a166c502e0010c095afd9d_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 02 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_c19035ee01a166c502e0010c095afd9d_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 02 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_c19035ee01a166c502e0010c095afd9d_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 02 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_c19035ee01a166c502e0010c095afd9d_5.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 02 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (5)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_e515b04d0770c3a73857a8823e89f26f_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 03 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_e515b04d0770c3a73857a8823e89f26f_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 03 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_e515b04d0770c3a73857a8823e89f26f_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 03 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_e515b04d0770c3a73857a8823e89f26f_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 03 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (4)",
+    "duration" : 8055,
+    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 03 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_cfac8679a34bf6a4d36c6f7303e3aea7_1.mp3",
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 01 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (1)",
+    "href" : "https://archive.org/download/linh-su-2/linh-su-1.mp3",
+    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 01 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_cfac8679a34bf6a4d36c6f7303e3aea7_2.mp3",
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 01 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (2)",
+    "href" : "https://archive.org/download/linh-su-2/linh-su-2.mp3",
+    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 02 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_cfac8679a34bf6a4d36c6f7303e3aea7_3.mp3",
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 01 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_cfac8679a34bf6a4d36c6f7303e3aea7_4.mp3",
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 01 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_cfac8679a34bf6a4d36c6f7303e3aea7_5.mp3",
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 01 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (5)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_c19035ee01a166c502e0010c095afd9d_1.mp3",
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 02 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_c19035ee01a166c502e0010c095afd9d_2.mp3",
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 02 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_c19035ee01a166c502e0010c095afd9d_3.mp3",
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 02 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_c19035ee01a166c502e0010c095afd9d_4.mp3",
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 02 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_c19035ee01a166c502e0010c095afd9d_5.mp3",
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 02 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (5)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_e515b04d0770c3a73857a8823e89f26f_1.mp3",
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 03 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_e515b04d0770c3a73857a8823e89f26f_2.mp3",
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 03 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_e515b04d0770c3a73857a8823e89f26f_3.mp3",
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 03 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_84461f33ba310da8ff7b5cea008b553e_e515b04d0770c3a73857a8823e89f26f_4.mp3",
-    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 03 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K (4)",
+    "href" : "https://archive.org/download/linh-su-2/linh-su-3.mp3",
+    "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 03 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

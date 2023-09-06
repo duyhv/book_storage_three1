@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-22",
+    "published" : "2023-09-06",
     "duration" : 21149,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,159 +26,51 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three1/main/EPUB/EPUB_e2ac168567362c3c72dcb6339bfbfa11.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three1/main/EPUB/EPUB_e2ac168567362c3c72dcb6339bfbfa11.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three1/main/IMAGE/IMAGE_e2ac168567362c3c72dcb6339bfbfa11.jpeg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three1/main/IMAGE/IMAGE_e2ac168567362c3c72dcb6339bfbfa11.jpeg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e2ac168567362c3c72dcb6339bfbfa11_06fd9cfeeec073934830e950bec7dae9_1.mp3",
+    "href" : "https://archive.org/download/hieu-con-1/hieu-con-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hieu-con-1 (1)",
+    "duration" : 7200,
+    "title" : "hieu-con-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e2ac168567362c3c72dcb6339bfbfa11_06fd9cfeeec073934830e950bec7dae9_2.mp3",
+    "href" : "https://archive.org/download/hieu-con-1/hieu-con-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hieu-con-1 (2)",
+    "duration" : 7200,
+    "title" : "hieu-con-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e2ac168567362c3c72dcb6339bfbfa11_06fd9cfeeec073934830e950bec7dae9_3.mp3",
+    "href" : "https://archive.org/download/hieu-con-1/hieu-con-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hieu-con-1 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e2ac168567362c3c72dcb6339bfbfa11_06fd9cfeeec073934830e950bec7dae9_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hieu-con-1 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e2ac168567362c3c72dcb6339bfbfa11_7a2816427b235a42d0a07240061c4020_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hieu-con-2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e2ac168567362c3c72dcb6339bfbfa11_7a2816427b235a42d0a07240061c4020_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hieu-con-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e2ac168567362c3c72dcb6339bfbfa11_7a2816427b235a42d0a07240061c4020_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hieu-con-2 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e2ac168567362c3c72dcb6339bfbfa11_7a2816427b235a42d0a07240061c4020_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hieu-con-2 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e2ac168567362c3c72dcb6339bfbfa11_02d7cf7182387ba3637afcd32b778407_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hieu-con-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e2ac168567362c3c72dcb6339bfbfa11_02d7cf7182387ba3637afcd32b778407_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hieu-con-3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e2ac168567362c3c72dcb6339bfbfa11_02d7cf7182387ba3637afcd32b778407_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hieu-con-3 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e2ac168567362c3c72dcb6339bfbfa11_02d7cf7182387ba3637afcd32b778407_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hieu-con-3 (4)",
+    "duration" : 6749,
+    "title" : "hieu-con-3",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e2ac168567362c3c72dcb6339bfbfa11_06fd9cfeeec073934830e950bec7dae9_1.mp3",
-    "title" : "hieu-con-1 (1)",
+    "href" : "https://archive.org/download/hieu-con-1/hieu-con-1.mp3",
+    "title" : "hieu-con-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e2ac168567362c3c72dcb6339bfbfa11_06fd9cfeeec073934830e950bec7dae9_2.mp3",
-    "title" : "hieu-con-1 (2)",
+    "href" : "https://archive.org/download/hieu-con-1/hieu-con-2.mp3",
+    "title" : "hieu-con-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e2ac168567362c3c72dcb6339bfbfa11_06fd9cfeeec073934830e950bec7dae9_3.mp3",
-    "title" : "hieu-con-1 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e2ac168567362c3c72dcb6339bfbfa11_06fd9cfeeec073934830e950bec7dae9_4.mp3",
-    "title" : "hieu-con-1 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e2ac168567362c3c72dcb6339bfbfa11_7a2816427b235a42d0a07240061c4020_1.mp3",
-    "title" : "hieu-con-2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e2ac168567362c3c72dcb6339bfbfa11_7a2816427b235a42d0a07240061c4020_2.mp3",
-    "title" : "hieu-con-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e2ac168567362c3c72dcb6339bfbfa11_7a2816427b235a42d0a07240061c4020_3.mp3",
-    "title" : "hieu-con-2 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e2ac168567362c3c72dcb6339bfbfa11_7a2816427b235a42d0a07240061c4020_4.mp3",
-    "title" : "hieu-con-2 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e2ac168567362c3c72dcb6339bfbfa11_02d7cf7182387ba3637afcd32b778407_1.mp3",
-    "title" : "hieu-con-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e2ac168567362c3c72dcb6339bfbfa11_02d7cf7182387ba3637afcd32b778407_2.mp3",
-    "title" : "hieu-con-3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e2ac168567362c3c72dcb6339bfbfa11_02d7cf7182387ba3637afcd32b778407_3.mp3",
-    "title" : "hieu-con-3 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e2ac168567362c3c72dcb6339bfbfa11_02d7cf7182387ba3637afcd32b778407_4.mp3",
-    "title" : "hieu-con-3 (4)",
+    "href" : "https://archive.org/download/hieu-con-1/hieu-con-3.mp3",
+    "title" : "hieu-con-3",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

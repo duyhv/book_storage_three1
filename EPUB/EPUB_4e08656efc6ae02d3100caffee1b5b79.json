@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
+    "published" : "2023-09-06",
     "duration" : 20887,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,279 +26,147 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three1/main/EPUB/EPUB_4e08656efc6ae02d3100caffee1b5b79.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three1/main/EPUB/EPUB_4e08656efc6ae02d3100caffee1b5b79.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three1/main/IMAGE/IMAGE_4e08656efc6ae02d3100caffee1b5b79.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three1/main/IMAGE/IMAGE_4e08656efc6ae02d3100caffee1b5b79.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_15268a365057de70f6f30527c3af03b9_1.mp3",
+    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B0%5D.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[0] (1)",
+    "duration" : 1790,
+    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[0]",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_15268a365057de70f6f30527c3af03b9_2.mp3",
+    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B10%5D.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[0] (2)",
+    "duration" : 2828,
+    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[10]",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_f9722789580597a6164511f1b0757028_1.mp3",
+    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B1%5D.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[10] (1)",
+    "duration" : 1810,
+    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[1]",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_f9722789580597a6164511f1b0757028_2.mp3",
+    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B2%5D.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[10] (2)",
+    "duration" : 1847,
+    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[2]",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_9173c7d660ccdc895981109a845598a4_1.mp3",
+    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B3%5D.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[1] (1)",
+    "duration" : 1818,
+    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[3]",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_9173c7d660ccdc895981109a845598a4_2.mp3",
+    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B4%5D.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[1] (2)",
+    "duration" : 1743,
+    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[4]",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_e9ff134a57921593703bbe7e99ae9091_1.mp3",
+    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B5%5D.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[2] (1)",
+    "duration" : 1768,
+    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[5]",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_e9ff134a57921593703bbe7e99ae9091_2.mp3",
+    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B6%5D.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[2] (2)",
+    "duration" : 1816,
+    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[6]",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_8d93950793125ba12de21682e370353c_1.mp3",
+    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B7%5D.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[3] (1)",
+    "duration" : 1830,
+    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[7]",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_8d93950793125ba12de21682e370353c_2.mp3",
+    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B8%5D.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[3] (2)",
+    "duration" : 1840,
+    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[8]",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_c8913301b6c02c8896eba314a0a26aff_1.mp3",
+    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B9%5D.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[4] (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_c8913301b6c02c8896eba314a0a26aff_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[4] (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_012320814a9944913e5ea5d4c3dc6e7a_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[5] (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_012320814a9944913e5ea5d4c3dc6e7a_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[5] (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_7d0f7c28d181664e1c157767eadda755_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[6] (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_7d0f7c28d181664e1c157767eadda755_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[6] (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_41eec96ef7670210ccb5b4c1aa7c5466_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[7] (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_41eec96ef7670210ccb5b4c1aa7c5466_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[7] (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_ac8dcf54ca45bba70b30157499e2e25b_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[8] (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_ac8dcf54ca45bba70b30157499e2e25b_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[8] (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_f6ef54f575465bbc7d9942e991ddcbc2_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[9] (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_f6ef54f575465bbc7d9942e991ddcbc2_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[9] (2)",
+    "duration" : 1797,
+    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[9]",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_15268a365057de70f6f30527c3af03b9_1.mp3",
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[0] (1)",
+    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B0%5D.mp3",
+    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[0]",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_15268a365057de70f6f30527c3af03b9_2.mp3",
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[0] (2)",
+    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B10%5D.mp3",
+    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[10]",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_f9722789580597a6164511f1b0757028_1.mp3",
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[10] (1)",
+    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B1%5D.mp3",
+    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[1]",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_f9722789580597a6164511f1b0757028_2.mp3",
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[10] (2)",
+    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B2%5D.mp3",
+    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[2]",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_9173c7d660ccdc895981109a845598a4_1.mp3",
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[1] (1)",
+    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B3%5D.mp3",
+    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[3]",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_9173c7d660ccdc895981109a845598a4_2.mp3",
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[1] (2)",
+    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B4%5D.mp3",
+    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[4]",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_e9ff134a57921593703bbe7e99ae9091_1.mp3",
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[2] (1)",
+    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B5%5D.mp3",
+    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[5]",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_e9ff134a57921593703bbe7e99ae9091_2.mp3",
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[2] (2)",
+    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B6%5D.mp3",
+    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[6]",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_8d93950793125ba12de21682e370353c_1.mp3",
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[3] (1)",
+    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B7%5D.mp3",
+    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[7]",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_8d93950793125ba12de21682e370353c_2.mp3",
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[3] (2)",
+    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B8%5D.mp3",
+    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[8]",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_c8913301b6c02c8896eba314a0a26aff_1.mp3",
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[4] (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_c8913301b6c02c8896eba314a0a26aff_2.mp3",
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[4] (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_012320814a9944913e5ea5d4c3dc6e7a_1.mp3",
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[5] (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_012320814a9944913e5ea5d4c3dc6e7a_2.mp3",
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[5] (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_7d0f7c28d181664e1c157767eadda755_1.mp3",
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[6] (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_7d0f7c28d181664e1c157767eadda755_2.mp3",
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[6] (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_41eec96ef7670210ccb5b4c1aa7c5466_1.mp3",
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[7] (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_41eec96ef7670210ccb5b4c1aa7c5466_2.mp3",
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[7] (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_ac8dcf54ca45bba70b30157499e2e25b_1.mp3",
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[8] (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_ac8dcf54ca45bba70b30157499e2e25b_2.mp3",
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[8] (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_f6ef54f575465bbc7d9942e991ddcbc2_1.mp3",
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[9] (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4e08656efc6ae02d3100caffee1b5b79_f6ef54f575465bbc7d9942e991ddcbc2_2.mp3",
-    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[9] (2)",
+    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B9%5D.mp3",
+    "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[9]",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

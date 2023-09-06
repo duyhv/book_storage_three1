@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-26",
-    "duration" : 9116,
+    "published" : "2023-09-06",
+    "duration" : 18232,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/EPUB/EPUB_9474a86fc95e8529abaa106baca1bf3d.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three1/main/EPUB/EPUB_9474a86fc95e8529abaa106baca1bf3d.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/IMAGE/IMAGE_9474a86fc95e8529abaa106baca1bf3d.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three1/main/IMAGE/IMAGE_9474a86fc95e8529abaa106baca1bf3d.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/AUDIO/AUDIO_9474a86fc95e8529abaa106baca1bf3d_c4df847a1d917adabfdf998c4b44bc34.mp3",
+    "href" : "https://archive.org/download/loi-nguyen-manh-dat-ma-am/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3094,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/AUDIO/AUDIO_9474a86fc95e8529abaa106baca1bf3d_777fd9cb9f1ee7dc489b967a21faa0c0.mp3",
+    "href" : "https://archive.org/download/loi-nguyen-manh-dat-ma-am/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3247,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/AUDIO/AUDIO_9474a86fc95e8529abaa106baca1bf3d_c9fe037d402dbda278f3c444e61f1f24.mp3",
+    "href" : "https://archive.org/download/loi-nguyen-manh-dat-ma-am/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2775,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/AUDIO/AUDIO_9474a86fc95e8529abaa106baca1bf3d_c4df847a1d917adabfdf998c4b44bc34.mp3",
+    "href" : "https://archive.org/download/loi-nguyen-manh-dat-ma-am/1.mp3",
     "title" : "Tập 1] Lời Nguyền Mảnh Đất Ma Ám - Truyện ma có thật Mc Đình Soạn mới nhất",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/AUDIO/AUDIO_9474a86fc95e8529abaa106baca1bf3d_777fd9cb9f1ee7dc489b967a21faa0c0.mp3",
+    "href" : "https://archive.org/download/loi-nguyen-manh-dat-ma-am/2.mp3",
     "title" : "Tập 2 ] Lời Nguyền Mảnh Đất Ma Ám - Truyện ma có thật Mc Đình Soạn mới nhất",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three1/main/AUDIO/AUDIO_9474a86fc95e8529abaa106baca1bf3d_c9fe037d402dbda278f3c444e61f1f24.mp3",
+    "href" : "https://archive.org/download/loi-nguyen-manh-dat-ma-am/3.mp3",
     "title" : "QUÁ HAY ] Lời Nguyền Mảnh Đất Ma Ám - Truyện ma có thật Mc Đình Soạn mới nhất",
     "children" : [ ]
   } ],

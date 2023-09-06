@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
-    "duration" : 11370,
+    "published" : "2023-09-06",
+    "duration" : 22740,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three1/main/EPUB/EPUB_6c082a7372a617f6806d0fadf2abe3f6.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three1/main/EPUB/EPUB_6c082a7372a617f6806d0fadf2abe3f6.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three1/main/IMAGE/IMAGE_6c082a7372a617f6806d0fadf2abe3f6.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three1/main/IMAGE/IMAGE_6c082a7372a617f6806d0fadf2abe3f6.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_6c082a7372a617f6806d0fadf2abe3f6_9e9e8141d431b84ff8b6e3ac4db1c5ce.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-55-ngay-che-do-sai-gon-sup-do/01.Ch%E1%BB%89-huy-ti%E1%BB%83u-%C4%91o%C3%A0n-t%C3%ACnh-b%C3%A1o-qu%C3%A2n-c%E1%BA%A3nh-MC-Nh%C6%B0-H%E1%BA%A3i_%28KenhSachNoi.Com%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1255,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_6c082a7372a617f6806d0fadf2abe3f6_31b33072be46de04a4648fac580b24a1.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-55-ngay-che-do-sai-gon-sup-do/02.Kh%E1%BA%A9u-100-ly-c%E1%BB%A7a-xe-t%C4%83ng-h%E1%BA%A1-n%C3%B2ng-nh%E1%BA%AFm-v%C3%A0o-v%C4%83n-ph%C3%B2ng-t%E1%BB%89nh-tr%C6%B0%E1%BB%9Fng-MC-Nh%C6%B0-H%E1%BA%A3i_%28KenhSachNoi.Com%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1199,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_6c082a7372a617f6806d0fadf2abe3f6_e491011c46ae08900c32abec03e72f51.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-55-ngay-che-do-sai-gon-sup-do/03.Xe-t%C4%83ng-C%E1%BB%99ng-S%E1%BA%A3n-b%E1%BA%ADt-%C4%91%C3%A8n-soi-cho-thu%E1%BB%B7-qu%C3%A2n-l%E1%BB%A5c-chi%E1%BA%BFn-th%E1%BA%A5y-%C4%91%C6%B0%E1%BB%9Dng-ch%E1%BA%A1y-MC-Nh%C6%B0-H%E1%BA%A3i_%28KenhSachNoi.Com%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1247,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_6c082a7372a617f6806d0fadf2abe3f6_f0dc92a2d3fb84ab5f9bc927cb800347.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-55-ngay-che-do-sai-gon-sup-do/04.14-ho%E1%BA%A3-ti%E1%BB%85n-%C4%91%C3%A3-r%C6%A1i-tr%C3%BAng-c%C4%83n-c%E1%BB%A9-kh%C3%B4ng-qu%C3%A2n-%C4%90%C3%A0-N%E1%BA%B5ng-MC-Nh%C6%B0-H%E1%BA%A3i_%28KenhSachNoi.Com%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 902,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_6c082a7372a617f6806d0fadf2abe3f6_96ba86bca9aaf09ee6b704434c5aae33.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-55-ngay-che-do-sai-gon-sup-do/05.Di-t%E1%BA%A3n-tr%E1%BA%BB-em-l%C3%A0-%C4%91%C3%B2n-tuy%C3%AAn-truy%E1%BB%81n-tuy%E1%BB%87t-di%E1%BB%87u-MC-Nh%C6%B0-H%E1%BA%A3i_%28KenhSachNoi.Com%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1186,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_6c082a7372a617f6806d0fadf2abe3f6_287e9515f066b362d00ba3335dc3b936.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-55-ngay-che-do-sai-gon-sup-do/06.B%E1%BB%8B-ph%E1%BB%A5c-k%C3%ADch-b%E1%BB%9Fi-du-k%C3%ADch-Vi%E1%BB%87t-C%E1%BB%99ng-MC-Nh%C6%B0-H%E1%BA%A3i_%28KenhSachNoi.Com%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1197,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_6c082a7372a617f6806d0fadf2abe3f6_d19f0fc96a94520dee8403ddbca23e4f.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-55-ngay-che-do-sai-gon-sup-do/07.Th%C6%B0a-t%E1%BB%95ng-th%E1%BB%91ng%2C-cu%E1%BB%99c-chi%E1%BA%BFn-k%E1%BB%83-nh%C6%B0-xong-MC-Nh%C6%B0-H%E1%BA%A3i_%28KenhSachNoi.Com%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1250,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_6c082a7372a617f6806d0fadf2abe3f6_cabfe3797ad493e0d1cfcd1070aeda23.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-55-ngay-che-do-sai-gon-sup-do/08.B%C3%AD-m%E1%BA%ADt-v%E1%BB%81-bom-CBU-55-MC-Nh%C6%B0-H%E1%BA%A3i_%28KenhSachNoi.Com%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1270,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_6c082a7372a617f6806d0fadf2abe3f6_2c465d612778270d3695830aafda1b89.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-55-ngay-che-do-sai-gon-sup-do/09.Nh%E1%BB%AFng-phi-c%C3%B4ng-l%C3%A1i-MiG-l%C3%A3o-luy%E1%BB%87n-b%E1%BA%A5m-n%C3%BAt-th%E1%BA%A3-bom-MC-Nh%C6%B0-H%E1%BA%A3i_%28KenhSachNoi.Com%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1197,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_6c082a7372a617f6806d0fadf2abe3f6_82218b53f62ba69eb13f749019b2d243.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-55-ngay-che-do-sai-gon-sup-do/10.S%E1%BB%91-ph%E1%BA%ADn-c%E1%BB%A7a-anh-%28c%E1%BB%B1u%29-l%C3%ADnh-th%E1%BB%A7y-qu%C3%A2n-l%E1%BB%A5c-chi%E1%BA%BFn-sau-ng%C3%A0y-gi%E1%BA%A3i-ph%C3%B3ng-%28t%E1%BA%ADp-cu%E1%BB%91i%29-MC-Nh%C6%B0-H%E1%BA%A3i_%28KenhSachNoi.Com%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 667,
@@ -117,43 +117,43 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_6c082a7372a617f6806d0fadf2abe3f6_9e9e8141d431b84ff8b6e3ac4db1c5ce.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-55-ngay-che-do-sai-gon-sup-do/01.Ch%E1%BB%89-huy-ti%E1%BB%83u-%C4%91o%C3%A0n-t%C3%ACnh-b%C3%A1o-qu%C3%A2n-c%E1%BA%A3nh-MC-Nh%C6%B0-H%E1%BA%A3i_%28KenhSachNoi.Com%29.mp3",
     "title" : "01.Chỉ-huy-tiểu-đoàn-tình-báo-quân-cảnh-MC-Như-Hải (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_6c082a7372a617f6806d0fadf2abe3f6_31b33072be46de04a4648fac580b24a1.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-55-ngay-che-do-sai-gon-sup-do/02.Kh%E1%BA%A9u-100-ly-c%E1%BB%A7a-xe-t%C4%83ng-h%E1%BA%A1-n%C3%B2ng-nh%E1%BA%AFm-v%C3%A0o-v%C4%83n-ph%C3%B2ng-t%E1%BB%89nh-tr%C6%B0%E1%BB%9Fng-MC-Nh%C6%B0-H%E1%BA%A3i_%28KenhSachNoi.Com%29.mp3",
     "title" : "02.Khẩu-100-ly-của-xe-tăng-hạ-nòng-nhắm-vào-văn-phòng-tỉnh-trưởng-MC-Như-Hải (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_6c082a7372a617f6806d0fadf2abe3f6_e491011c46ae08900c32abec03e72f51.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-55-ngay-che-do-sai-gon-sup-do/03.Xe-t%C4%83ng-C%E1%BB%99ng-S%E1%BA%A3n-b%E1%BA%ADt-%C4%91%C3%A8n-soi-cho-thu%E1%BB%B7-qu%C3%A2n-l%E1%BB%A5c-chi%E1%BA%BFn-th%E1%BA%A5y-%C4%91%C6%B0%E1%BB%9Dng-ch%E1%BA%A1y-MC-Nh%C6%B0-H%E1%BA%A3i_%28KenhSachNoi.Com%29.mp3",
     "title" : "03.Xe-tăng-Cộng-Sản-bật-đèn-soi-cho-thuỷ-quân-lục-chiến-thấy-đường-chạy-MC-Như-Hải (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_6c082a7372a617f6806d0fadf2abe3f6_f0dc92a2d3fb84ab5f9bc927cb800347.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-55-ngay-che-do-sai-gon-sup-do/04.14-ho%E1%BA%A3-ti%E1%BB%85n-%C4%91%C3%A3-r%C6%A1i-tr%C3%BAng-c%C4%83n-c%E1%BB%A9-kh%C3%B4ng-qu%C3%A2n-%C4%90%C3%A0-N%E1%BA%B5ng-MC-Nh%C6%B0-H%E1%BA%A3i_%28KenhSachNoi.Com%29.mp3",
     "title" : "04.14-hoả-tiễn-đã-rơi-trúng-căn-cứ-không-quân-Đà-Nẵng-MC-Như-Hải (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_6c082a7372a617f6806d0fadf2abe3f6_96ba86bca9aaf09ee6b704434c5aae33.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-55-ngay-che-do-sai-gon-sup-do/05.Di-t%E1%BA%A3n-tr%E1%BA%BB-em-l%C3%A0-%C4%91%C3%B2n-tuy%C3%AAn-truy%E1%BB%81n-tuy%E1%BB%87t-di%E1%BB%87u-MC-Nh%C6%B0-H%E1%BA%A3i_%28KenhSachNoi.Com%29.mp3",
     "title" : "05.Di-tản-trẻ-em-là-đòn-tuyên-truyền-tuyệt-diệu-MC-Như-Hải (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_6c082a7372a617f6806d0fadf2abe3f6_287e9515f066b362d00ba3335dc3b936.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-55-ngay-che-do-sai-gon-sup-do/06.B%E1%BB%8B-ph%E1%BB%A5c-k%C3%ADch-b%E1%BB%9Fi-du-k%C3%ADch-Vi%E1%BB%87t-C%E1%BB%99ng-MC-Nh%C6%B0-H%E1%BA%A3i_%28KenhSachNoi.Com%29.mp3",
     "title" : "06.Bị-phục-kích-bởi-du-kích-Việt-Cộng-MC-Như-Hải (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_6c082a7372a617f6806d0fadf2abe3f6_d19f0fc96a94520dee8403ddbca23e4f.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-55-ngay-che-do-sai-gon-sup-do/07.Th%C6%B0a-t%E1%BB%95ng-th%E1%BB%91ng%2C-cu%E1%BB%99c-chi%E1%BA%BFn-k%E1%BB%83-nh%C6%B0-xong-MC-Nh%C6%B0-H%E1%BA%A3i_%28KenhSachNoi.Com%29.mp3",
     "title" : "07.Thưa-tổng-thống,-cuộc-chiến-kể-như-xong-MC-Như-Hải (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_6c082a7372a617f6806d0fadf2abe3f6_cabfe3797ad493e0d1cfcd1070aeda23.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-55-ngay-che-do-sai-gon-sup-do/08.B%C3%AD-m%E1%BA%ADt-v%E1%BB%81-bom-CBU-55-MC-Nh%C6%B0-H%E1%BA%A3i_%28KenhSachNoi.Com%29.mp3",
     "title" : "08.Bí-mật-về-bom-CBU-55-MC-Như-Hải (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_6c082a7372a617f6806d0fadf2abe3f6_2c465d612778270d3695830aafda1b89.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-55-ngay-che-do-sai-gon-sup-do/09.Nh%E1%BB%AFng-phi-c%C3%B4ng-l%C3%A1i-MiG-l%C3%A3o-luy%E1%BB%87n-b%E1%BA%A5m-n%C3%BAt-th%E1%BA%A3-bom-MC-Nh%C6%B0-H%E1%BA%A3i_%28KenhSachNoi.Com%29.mp3",
     "title" : "09.Những-phi-công-lái-MiG-lão-luyện-bấm-nút-thả-bom-MC-Như-Hải (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_6c082a7372a617f6806d0fadf2abe3f6_82218b53f62ba69eb13f749019b2d243.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-55-ngay-che-do-sai-gon-sup-do/10.S%E1%BB%91-ph%E1%BA%ADn-c%E1%BB%A7a-anh-%28c%E1%BB%B1u%29-l%C3%ADnh-th%E1%BB%A7y-qu%C3%A2n-l%E1%BB%A5c-chi%E1%BA%BFn-sau-ng%C3%A0y-gi%E1%BA%A3i-ph%C3%B3ng-%28t%E1%BA%ADp-cu%E1%BB%91i%29-MC-Nh%C6%B0-H%E1%BA%A3i_%28KenhSachNoi.Com%29.mp3",
     "title" : "10.Số-phận-của-anh-(cựu)-lính-thủy-quân-lục-chiến-sau-ngày-giải-phóng-(tập-cuối)-MC-Như-Hải...",
     "children" : [ ]
   } ],

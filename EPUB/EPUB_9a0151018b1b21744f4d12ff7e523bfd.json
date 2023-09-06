@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-08",
-    "duration" : 51498,
+    "published" : "2023-09-06",
+    "duration" : 80242,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three1/main/EPUB/EPUB_9a0151018b1b21744f4d12ff7e523bfd.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three1/main/EPUB/EPUB_9a0151018b1b21744f4d12ff7e523bfd.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three1/main/IMAGE/IMAGE_9a0151018b1b21744f4d12ff7e523bfd.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three1/main/IMAGE/IMAGE_9a0151018b1b21744f4d12ff7e523bfd.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_0c024caae1c617ad2ca4354f187e35f1.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00001_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 516,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_9dc3a63d79ec4a0a7fb62432685beccb.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00002_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 960,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_f003422dcb1ceeef73acc392c21dfe4e.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00003_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 966,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_1cd2d3090b0d60494bb9618b5653c8de.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00004_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1905,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_1217f6aab1cbe6074458bf6271743dfe.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00005_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1140,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_959f71443a3629efbf7a0c46d51327ab.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00006_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1006,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_ad25fbbdac10fd880820777c3edad74a.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00007_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1825,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_aff349cdb6f183740d337708b2b7ecb6.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00008_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1020,
@@ -100,23 +100,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_064b9c94e3f2385106975253501d4883_1.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00009_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00009 Cái Bóng Kinh Hoàng (1)",
+    "duration" : 2232,
+    "title" : "00009 Cái Bóng Kinh Hoàng",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_064b9c94e3f2385106975253501d4883_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00009 Cái Bóng Kinh Hoàng (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_f7c9abdfa8e2a6209802bc64e8023bc6.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00010_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1330,
@@ -124,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_d1f467de584a1f35023dc7cc87c684ec.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00011_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2172,
@@ -132,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_cb3249feb73efb5bca6c39ecbd83bfcf.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00012_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1577,
@@ -140,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_5c73829a33a2d56fad157c7496677c1e.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00013_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1840,
@@ -148,7 +140,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_e5dede54517876e2c56ea909d7d27899.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00014_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1620,
@@ -156,7 +148,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_7c9b11aa5947875dbc159d212cf225eb.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00015_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2030,
@@ -164,23 +156,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_7674206fefd8e7e4521200724a81802a_1.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00016_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00016 Cái Bóng Kinh Hoàng (1)",
+    "duration" : 2202,
+    "title" : "00016 Cái Bóng Kinh Hoàng",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_7674206fefd8e7e4521200724a81802a_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00016 Cái Bóng Kinh Hoàng (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_6005cf3e428c2551933eb1b7395a6c5e.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00017_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1218,
@@ -188,55 +172,31 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_ea72b9bd33648f7dc27edc140a12a26f_1.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00018_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00018 Cái Bóng Kinh Hoàng (1)",
+    "duration" : 4118,
+    "title" : "00018 Cái Bóng Kinh Hoàng",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_ea72b9bd33648f7dc27edc140a12a26f_2.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00019_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00018 Cái Bóng Kinh Hoàng (2)",
+    "duration" : 2680,
+    "title" : "00019 Cái Bóng Kinh Hoàng",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_44920e15596cfa58f6499fc8d0f28b58_1.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00020_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00019 Cái Bóng Kinh Hoàng (1)",
+    "duration" : 2481,
+    "title" : "00020 Cái Bóng Kinh Hoàng",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_44920e15596cfa58f6499fc8d0f28b58_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00019 Cái Bóng Kinh Hoàng (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_2925b2f58f6917241fe809c88dc7da2e_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00020 Cái Bóng Kinh Hoàng (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_2925b2f58f6917241fe809c88dc7da2e_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00020 Cái Bóng Kinh Hoàng (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_26303000b47cb734573ff0185db70faf.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00021_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1743,
@@ -244,7 +204,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_0b7f894d18cbb934022956162d3d996d.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00022_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1662,
@@ -252,7 +212,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_e4d6b4bea8adfc98a5710e76da4fab5e.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00023_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2180,
@@ -260,7 +220,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_efe86afb6e8c88bd91421544f6754284.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00024_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 781,
@@ -268,39 +228,23 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_696d9c1a6dd5350f54b3ad055943bb98_1.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00025_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00025 Cái Bóng Kinh Hoàng (1)",
+    "duration" : 3231,
+    "title" : "00025 Cái Bóng Kinh Hoàng",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_696d9c1a6dd5350f54b3ad055943bb98_2.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00026_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00025 Cái Bóng Kinh Hoàng (2)",
+    "duration" : 2735,
+    "title" : "00026 Cái Bóng Kinh Hoàng",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_a9d45ddeecb9b568b6aa343d750b87f2_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00026 Cái Bóng Kinh Hoàng (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_a9d45ddeecb9b568b6aa343d750b87f2_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00026 Cái Bóng Kinh Hoàng (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_aac11b6b796cda3682b5d58eb231effa.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00027_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1253,
@@ -308,165 +252,125 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_fa154cab544e20c64fc57d57ce7a980b_1.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00028_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00028 Cái Bóng Kinh Hoàng (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_fa154cab544e20c64fc57d57ce7a980b_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00028 Cái Bóng Kinh Hoàng (2)",
+    "duration" : 3075,
+    "title" : "00028 Cái Bóng Kinh Hoàng",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_0c024caae1c617ad2ca4354f187e35f1.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00001_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "title" : "00001 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_9dc3a63d79ec4a0a7fb62432685beccb.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00002_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "title" : "00002 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_f003422dcb1ceeef73acc392c21dfe4e.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00003_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "title" : "00003 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_1cd2d3090b0d60494bb9618b5653c8de.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00004_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "title" : "00004 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_1217f6aab1cbe6074458bf6271743dfe.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00005_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "title" : "00005 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_959f71443a3629efbf7a0c46d51327ab.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00006_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "title" : "00006 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_ad25fbbdac10fd880820777c3edad74a.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00007_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "title" : "00007 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_aff349cdb6f183740d337708b2b7ecb6.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00008_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "title" : "00008 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_064b9c94e3f2385106975253501d4883_1.mp3",
-    "title" : "00009 Cái Bóng Kinh Hoàng (1)",
+    "href" : "https://archive.org/download/cbkh_20230722/00009_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "title" : "00009 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_064b9c94e3f2385106975253501d4883_2.mp3",
-    "title" : "00009 Cái Bóng Kinh Hoàng (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_f7c9abdfa8e2a6209802bc64e8023bc6.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00010_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "title" : "00010 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_d1f467de584a1f35023dc7cc87c684ec.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00011_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "title" : "00011 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_cb3249feb73efb5bca6c39ecbd83bfcf.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00012_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "title" : "00012 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_5c73829a33a2d56fad157c7496677c1e.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00013_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "title" : "00013 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_e5dede54517876e2c56ea909d7d27899.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00014_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "title" : "00014 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_7c9b11aa5947875dbc159d212cf225eb.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00015_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "title" : "00015 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_7674206fefd8e7e4521200724a81802a_1.mp3",
-    "title" : "00016 Cái Bóng Kinh Hoàng (1)",
+    "href" : "https://archive.org/download/cbkh_20230722/00016_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "title" : "00016 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_7674206fefd8e7e4521200724a81802a_2.mp3",
-    "title" : "00016 Cái Bóng Kinh Hoàng (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_6005cf3e428c2551933eb1b7395a6c5e.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00017_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "title" : "00017 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_ea72b9bd33648f7dc27edc140a12a26f_1.mp3",
-    "title" : "00018 Cái Bóng Kinh Hoàng (1)",
+    "href" : "https://archive.org/download/cbkh_20230722/00018_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "title" : "00018 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_ea72b9bd33648f7dc27edc140a12a26f_2.mp3",
-    "title" : "00018 Cái Bóng Kinh Hoàng (2)",
+    "href" : "https://archive.org/download/cbkh_20230722/00019_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "title" : "00019 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_44920e15596cfa58f6499fc8d0f28b58_1.mp3",
-    "title" : "00019 Cái Bóng Kinh Hoàng (1)",
+    "href" : "https://archive.org/download/cbkh_20230722/00020_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "title" : "00020 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_44920e15596cfa58f6499fc8d0f28b58_2.mp3",
-    "title" : "00019 Cái Bóng Kinh Hoàng (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_2925b2f58f6917241fe809c88dc7da2e_1.mp3",
-    "title" : "00020 Cái Bóng Kinh Hoàng (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_2925b2f58f6917241fe809c88dc7da2e_2.mp3",
-    "title" : "00020 Cái Bóng Kinh Hoàng (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_26303000b47cb734573ff0185db70faf.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00021_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "title" : "00021 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_0b7f894d18cbb934022956162d3d996d.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00022_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "title" : "00022 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_e4d6b4bea8adfc98a5710e76da4fab5e.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00023_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "title" : "00023 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_efe86afb6e8c88bd91421544f6754284.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00024_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "title" : "00024 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_696d9c1a6dd5350f54b3ad055943bb98_1.mp3",
-    "title" : "00025 Cái Bóng Kinh Hoàng (1)",
+    "href" : "https://archive.org/download/cbkh_20230722/00025_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "title" : "00025 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_696d9c1a6dd5350f54b3ad055943bb98_2.mp3",
-    "title" : "00025 Cái Bóng Kinh Hoàng (2)",
+    "href" : "https://archive.org/download/cbkh_20230722/00026_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "title" : "00026 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_a9d45ddeecb9b568b6aa343d750b87f2_1.mp3",
-    "title" : "00026 Cái Bóng Kinh Hoàng (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_a9d45ddeecb9b568b6aa343d750b87f2_2.mp3",
-    "title" : "00026 Cái Bóng Kinh Hoàng (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_aac11b6b796cda3682b5d58eb231effa.mp3",
+    "href" : "https://archive.org/download/cbkh_20230722/00027_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
     "title" : "00027 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_fa154cab544e20c64fc57d57ce7a980b_1.mp3",
-    "title" : "00028 Cái Bóng Kinh Hoàng (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_9a0151018b1b21744f4d12ff7e523bfd_fa154cab544e20c64fc57d57ce7a980b_2.mp3",
-    "title" : "00028 Cái Bóng Kinh Hoàng (2)",
+    "href" : "https://archive.org/download/cbkh_20230722/00028_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "title" : "00028 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
