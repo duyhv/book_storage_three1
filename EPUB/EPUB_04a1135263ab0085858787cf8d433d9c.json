@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-19",
-    "duration" : 11134,
+    "published" : "2023-09-06",
+    "duration" : 16791,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three1/main/EPUB/EPUB_04a1135263ab0085858787cf8d433d9c.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three1/main/EPUB/EPUB_04a1135263ab0085858787cf8d433d9c.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three1/main/IMAGE/IMAGE_04a1135263ab0085858787cf8d433d9c.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three1/main/IMAGE/IMAGE_04a1135263ab0085858787cf8d433d9c.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_04a1135263ab0085858787cf8d433d9c_bb2a005d03c8d49782e0949de7fa030e.mp3",
+    "href" : "https://archive.org/download/bi-mat-1_202112/bi-mat-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5657,
@@ -44,45 +44,21 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_04a1135263ab0085858787cf8d433d9c_d830426cf975b629a94b874e7ae0ba7a_1.mp3",
+    "href" : "https://archive.org/download/bi-mat-1_202112/bi-mat-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "bi-mat-2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_04a1135263ab0085858787cf8d433d9c_d830426cf975b629a94b874e7ae0ba7a_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "bi-mat-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_04a1135263ab0085858787cf8d433d9c_d830426cf975b629a94b874e7ae0ba7a_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "bi-mat-2 (3)",
+    "duration" : 5477,
+    "title" : "bi-mat-2",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_04a1135263ab0085858787cf8d433d9c_bb2a005d03c8d49782e0949de7fa030e.mp3",
+    "href" : "https://archive.org/download/bi-mat-1_202112/bi-mat-1.mp3",
     "title" : "bi-mat-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_04a1135263ab0085858787cf8d433d9c_d830426cf975b629a94b874e7ae0ba7a_1.mp3",
-    "title" : "bi-mat-2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_04a1135263ab0085858787cf8d433d9c_d830426cf975b629a94b874e7ae0ba7a_2.mp3",
-    "title" : "bi-mat-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_04a1135263ab0085858787cf8d433d9c_d830426cf975b629a94b874e7ae0ba7a_3.mp3",
-    "title" : "bi-mat-2 (3)",
+    "href" : "https://archive.org/download/bi-mat-1_202112/bi-mat-2.mp3",
+    "title" : "bi-mat-2",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

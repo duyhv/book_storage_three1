@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
+    "published" : "2023-09-06",
     "duration" : 57807,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,375 +26,99 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three1/main/EPUB/EPUB_0a0d9f080ccf7542e84c750b5449cfb1.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three1/main/EPUB/EPUB_0a0d9f080ccf7542e84c750b5449cfb1.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three1/main/IMAGE/IMAGE_0a0d9f080ccf7542e84c750b5449cfb1.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three1/main/IMAGE/IMAGE_0a0d9f080ccf7542e84c750b5449cfb1.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_cb83dc9d9295c1708a02fafc9b1a1264_1.mp3",
+    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-1 (1)",
+    "duration" : 7639,
+    "title" : "hoi-ky-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_cb83dc9d9295c1708a02fafc9b1a1264_2.mp3",
+    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-1 (2)",
+    "duration" : 7515,
+    "title" : "hoi-ky-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_cb83dc9d9295c1708a02fafc9b1a1264_3.mp3",
+    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-1 (3)",
+    "duration" : 7006,
+    "title" : "hoi-ky-3",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_cb83dc9d9295c1708a02fafc9b1a1264_4.mp3",
+    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-1 (4)",
+    "duration" : 7720,
+    "title" : "hoi-ky-4",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_229a99efe2abf2cc04be87516806be7b_1.mp3",
+    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-2 (1)",
+    "duration" : 7736,
+    "title" : "hoi-ky-5",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_229a99efe2abf2cc04be87516806be7b_2.mp3",
+    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-2 (2)",
+    "duration" : 7324,
+    "title" : "hoi-ky-6",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_229a99efe2abf2cc04be87516806be7b_3.mp3",
+    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-2 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_229a99efe2abf2cc04be87516806be7b_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-2 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_a11df8811f2688b8fd7dcb67f97ddb3e_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_a11df8811f2688b8fd7dcb67f97ddb3e_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_a11df8811f2688b8fd7dcb67f97ddb3e_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-3 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_a11df8811f2688b8fd7dcb67f97ddb3e_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-3 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_e0f0295771448312a1e8b84eaa4e790c_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-4 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_e0f0295771448312a1e8b84eaa4e790c_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-4 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_e0f0295771448312a1e8b84eaa4e790c_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-4 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_e0f0295771448312a1e8b84eaa4e790c_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-4 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_088be093e35177081622bc81e9f12868_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-5 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_088be093e35177081622bc81e9f12868_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-5 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_088be093e35177081622bc81e9f12868_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-5 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_088be093e35177081622bc81e9f12868_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-5 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_b1314a9b385e88f35a9d3cdb2619c567_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-6 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_b1314a9b385e88f35a9d3cdb2619c567_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-6 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_b1314a9b385e88f35a9d3cdb2619c567_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-6 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_b1314a9b385e88f35a9d3cdb2619c567_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-6 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_a95c045c570f1a3dd113152d2180155b_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-7 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_a95c045c570f1a3dd113152d2180155b_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-7 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_a95c045c570f1a3dd113152d2180155b_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-7 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_a95c045c570f1a3dd113152d2180155b_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-7 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_a95c045c570f1a3dd113152d2180155b_5.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-7 (5)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_a95c045c570f1a3dd113152d2180155b_6.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoi-ky-7 (6)",
+    "duration" : 12867,
+    "title" : "hoi-ky-7",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_cb83dc9d9295c1708a02fafc9b1a1264_1.mp3",
-    "title" : "hoi-ky-1 (1)",
+    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-1.mp3",
+    "title" : "hoi-ky-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_cb83dc9d9295c1708a02fafc9b1a1264_2.mp3",
-    "title" : "hoi-ky-1 (2)",
+    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-2.mp3",
+    "title" : "hoi-ky-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_cb83dc9d9295c1708a02fafc9b1a1264_3.mp3",
-    "title" : "hoi-ky-1 (3)",
+    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-3.mp3",
+    "title" : "hoi-ky-3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_cb83dc9d9295c1708a02fafc9b1a1264_4.mp3",
-    "title" : "hoi-ky-1 (4)",
+    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-4.mp3",
+    "title" : "hoi-ky-4",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_229a99efe2abf2cc04be87516806be7b_1.mp3",
-    "title" : "hoi-ky-2 (1)",
+    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-5.mp3",
+    "title" : "hoi-ky-5",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_229a99efe2abf2cc04be87516806be7b_2.mp3",
-    "title" : "hoi-ky-2 (2)",
+    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-6.mp3",
+    "title" : "hoi-ky-6",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_229a99efe2abf2cc04be87516806be7b_3.mp3",
-    "title" : "hoi-ky-2 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_229a99efe2abf2cc04be87516806be7b_4.mp3",
-    "title" : "hoi-ky-2 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_a11df8811f2688b8fd7dcb67f97ddb3e_1.mp3",
-    "title" : "hoi-ky-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_a11df8811f2688b8fd7dcb67f97ddb3e_2.mp3",
-    "title" : "hoi-ky-3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_a11df8811f2688b8fd7dcb67f97ddb3e_3.mp3",
-    "title" : "hoi-ky-3 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_a11df8811f2688b8fd7dcb67f97ddb3e_4.mp3",
-    "title" : "hoi-ky-3 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_e0f0295771448312a1e8b84eaa4e790c_1.mp3",
-    "title" : "hoi-ky-4 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_e0f0295771448312a1e8b84eaa4e790c_2.mp3",
-    "title" : "hoi-ky-4 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_e0f0295771448312a1e8b84eaa4e790c_3.mp3",
-    "title" : "hoi-ky-4 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_e0f0295771448312a1e8b84eaa4e790c_4.mp3",
-    "title" : "hoi-ky-4 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_088be093e35177081622bc81e9f12868_1.mp3",
-    "title" : "hoi-ky-5 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_088be093e35177081622bc81e9f12868_2.mp3",
-    "title" : "hoi-ky-5 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_088be093e35177081622bc81e9f12868_3.mp3",
-    "title" : "hoi-ky-5 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_088be093e35177081622bc81e9f12868_4.mp3",
-    "title" : "hoi-ky-5 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_b1314a9b385e88f35a9d3cdb2619c567_1.mp3",
-    "title" : "hoi-ky-6 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_b1314a9b385e88f35a9d3cdb2619c567_2.mp3",
-    "title" : "hoi-ky-6 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_b1314a9b385e88f35a9d3cdb2619c567_3.mp3",
-    "title" : "hoi-ky-6 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_b1314a9b385e88f35a9d3cdb2619c567_4.mp3",
-    "title" : "hoi-ky-6 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_a95c045c570f1a3dd113152d2180155b_1.mp3",
-    "title" : "hoi-ky-7 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_a95c045c570f1a3dd113152d2180155b_2.mp3",
-    "title" : "hoi-ky-7 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_a95c045c570f1a3dd113152d2180155b_3.mp3",
-    "title" : "hoi-ky-7 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_a95c045c570f1a3dd113152d2180155b_4.mp3",
-    "title" : "hoi-ky-7 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_a95c045c570f1a3dd113152d2180155b_5.mp3",
-    "title" : "hoi-ky-7 (5)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_0a0d9f080ccf7542e84c750b5449cfb1_a95c045c570f1a3dd113152d2180155b_6.mp3",
-    "title" : "hoi-ky-7 (6)",
+    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-7.mp3",
+    "title" : "hoi-ky-7",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

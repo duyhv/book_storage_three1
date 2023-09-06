@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-29",
+    "published" : "2023-09-06",
     "duration" : 4755,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,51 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three1/main/EPUB/EPUB_023342a4a420d71fbfb2f07c7fc13c96.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three1/main/EPUB/EPUB_023342a4a420d71fbfb2f07c7fc13c96.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three1/main/IMAGE/IMAGE_023342a4a420d71fbfb2f07c7fc13c96.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three1/main/IMAGE/IMAGE_023342a4a420d71fbfb2f07c7fc13c96.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_023342a4a420d71fbfb2f07c7fc13c96_d2b660898966e075812ec0922bee865c_1.mp3",
+    "href" : "https://archive.org/download/bien-nien-co-don_202111/bien-nien-co-don.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "bien-nien-co-don (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_023342a4a420d71fbfb2f07c7fc13c96_d2b660898966e075812ec0922bee865c_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "bien-nien-co-don (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_023342a4a420d71fbfb2f07c7fc13c96_d2b660898966e075812ec0922bee865c_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "bien-nien-co-don (3)",
+    "duration" : 4755,
+    "title" : "bien-nien-co-don",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_023342a4a420d71fbfb2f07c7fc13c96_d2b660898966e075812ec0922bee865c_1.mp3",
-    "title" : "bien-nien-co-don (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_023342a4a420d71fbfb2f07c7fc13c96_d2b660898966e075812ec0922bee865c_2.mp3",
-    "title" : "bien-nien-co-don (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_023342a4a420d71fbfb2f07c7fc13c96_d2b660898966e075812ec0922bee865c_3.mp3",
-    "title" : "bien-nien-co-don (3)",
+    "href" : "https://archive.org/download/bien-nien-co-don_202111/bien-nien-co-don.mp3",
+    "title" : "bien-nien-co-don",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
