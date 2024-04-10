@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 4694,
+    "published" : "2024-04-09",
+    "duration" : 3581,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/day-tre-biet-cach-tieu-tien.sna/01.GioiThieu_DayTreBietCachTieuTien.mp3",
+    "href" : "https://archive.org/download/ed54300f8aa8046f6bde3e2e3eab75bb/01-gioithieu-daytrebietcachtieutien.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 412,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/day-tre-biet-cach-tieu-tien.sna/02.C01_DayTreBietCachNhanBietTien_DayTreBietCachTieuTien.mp3",
+    "href" : "https://archive.org/download/ed54300f8aa8046f6bde3e2e3eab75bb/02-c01-daytrebietcachnhanbiettien-daytrebietcachtieutien.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 701,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/day-tre-biet-cach-tieu-tien.sna/03.C02_BoiDuongChoTreKhaNangQuanLyTien_DayTreBietCachTieuTien.mp3",
+    "href" : "https://archive.org/download/ed54300f8aa8046f6bde3e2e3eab75bb/03-c02-boiduongchotrekhanangquanlytien-daytrebietcachtieutien.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2468,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/day-tre-biet-cach-tieu-tien.sna/01.GioiThieu_DayTreBietCachTieuTien.mp3",
+    "href" : "https://archive.org/download/ed54300f8aa8046f6bde3e2e3eab75bb/01-gioithieu-daytrebietcachtieutien.mp3",
     "title" : "01.GioiThieu DayTreBietCachTieuTien",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/day-tre-biet-cach-tieu-tien.sna/02.C01_DayTreBietCachNhanBietTien_DayTreBietCachTieuTien.mp3",
+    "href" : "https://archive.org/download/ed54300f8aa8046f6bde3e2e3eab75bb/02-c01-daytrebietcachnhanbiettien-daytrebietcachtieutien.mp3",
     "title" : "02.C01 DayTreBietCachNhanBietTien DayTreBietCachTieuTien",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/day-tre-biet-cach-tieu-tien.sna/03.C02_BoiDuongChoTreKhaNangQuanLyTien_DayTreBietCachTieuTien.mp3",
+    "href" : "https://archive.org/download/ed54300f8aa8046f6bde3e2e3eab75bb/03-c02-boiduongchotrekhanangquanlytien-daytrebietcachtieutien.mp3",
     "title" : "03.C02 BoiDuongChoTreKhaNangQuanLyTien DayTreBietCachTieuTien",
     "children" : [ ]
   } ],

@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 23958,
+    "published" : "2024-04-09",
+    "duration" : 11979,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/an-lac-1/an-lac-1.mp3",
+    "href" : "https://archive.org/download/edd0ab989e0fd25bc83f6e993f66c856/01-hoi-thuo-y-thuc-hoi-thuo-mau-nhiem.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4530,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/an-lac-1/an-lac-2.mp3",
+    "href" : "https://archive.org/download/edd0ab989e0fd25bc83f6e993f66c856/02-chuyen-hoa-va-tri-lieu.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3578,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/an-lac-1/an-lac-3.mp3",
+    "href" : "https://archive.org/download/edd0ab989e0fd25bc83f6e993f66c856/03-an-lac-tung-buoc-chan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3871,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/an-lac-1/an-lac-1.mp3",
+    "href" : "https://archive.org/download/edd0ab989e0fd25bc83f6e993f66c856/01-hoi-thuo-y-thuc-hoi-thuo-mau-nhiem.mp3",
     "title" : "01 Hoi thuo y thuc- hoi thuo mau nhiem",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/an-lac-1/an-lac-2.mp3",
+    "href" : "https://archive.org/download/edd0ab989e0fd25bc83f6e993f66c856/02-chuyen-hoa-va-tri-lieu.mp3",
     "title" : "02 Chuyen hoa va tri lieu",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/an-lac-1/an-lac-3.mp3",
+    "href" : "https://archive.org/download/edd0ab989e0fd25bc83f6e993f66c856/03-an-lac-tung-buoc-chan.mp3",
     "title" : "03 An lac tung buoc chan",
     "children" : [ ]
   } ],
