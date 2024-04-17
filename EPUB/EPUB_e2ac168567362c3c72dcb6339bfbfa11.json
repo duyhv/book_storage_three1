@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-04-16",
     "duration" : 21149,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/hieu-con-1/hieu-con-1.mp3",
+    "href" : "https://archive.org/download/e2ac168567362c3c72dcb6339bfbfa11/hieu-con-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7200,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hieu-con-1/hieu-con-2.mp3",
+    "href" : "https://archive.org/download/e2ac168567362c3c72dcb6339bfbfa11/hieu-con-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7200,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hieu-con-1/hieu-con-3.mp3",
+    "href" : "https://archive.org/download/e2ac168567362c3c72dcb6339bfbfa11/hieu-con-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6749,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/hieu-con-1/hieu-con-1.mp3",
+    "href" : "https://archive.org/download/e2ac168567362c3c72dcb6339bfbfa11/hieu-con-1.mp3",
     "title" : "hieu-con-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hieu-con-1/hieu-con-2.mp3",
+    "href" : "https://archive.org/download/e2ac168567362c3c72dcb6339bfbfa11/hieu-con-2.mp3",
     "title" : "hieu-con-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hieu-con-1/hieu-con-3.mp3",
+    "href" : "https://archive.org/download/e2ac168567362c3c72dcb6339bfbfa11/hieu-con-3.mp3",
     "title" : "hieu-con-3",
     "children" : [ ]
   } ],
