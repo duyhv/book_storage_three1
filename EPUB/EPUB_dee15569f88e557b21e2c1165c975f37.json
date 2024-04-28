@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-04-28",
     "duration" : 46682,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/trinh-sat-05/trinh-sat-01.mp3",
+    "href" : "https://archive.org/download/dee15569f88e557b21e2c1165c975f37/-vvh-1-tran-quyet-chien-tren-cao-diem-328-i-linh-trinh-sat-chien-truong-k.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4068,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/trinh-sat-05/trinh-sat-02.mp3",
+    "href" : "https://archive.org/download/dee15569f88e557b21e2c1165c975f37/-vvh-2-chuan-bi-cho-chien-dich-danh-lon-i-linh-trinh-sat-chien-truong-k.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3860,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/trinh-sat-05/trinh-sat-03.mp3",
+    "href" : "https://archive.org/download/dee15569f88e557b21e2c1165c975f37/-vvh-3-tieng-thang-pot-ru-len-may-tieng-kho-kho-kho-i-linh-trinh-sat-chien-truong-k.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3535,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/trinh-sat-05/trinh-sat-04.mp3",
+    "href" : "https://archive.org/download/dee15569f88e557b21e2c1165c975f37/-vvh-4-lu-polpot-bo-chay-tan-loan-tren-duong-19-i-linh-trinh-sat-chien-truong-k.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4428,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/trinh-sat-05/trinh-sat-05.mp3",
+    "href" : "https://archive.org/download/dee15569f88e557b21e2c1165c975f37/-vvh-5-cuoc-phuc-thu-tren-bai-lay-dam-phet-i-linh-trinh-sat-chien-truong-k.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5040,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/trinh-sat-05/trinh-sat-06.mp3",
+    "href" : "https://archive.org/download/dee15569f88e557b21e2c1165c975f37/-vvh-6-dung-do-bon-thai-lan-tren-con-duong-tu-than-i-linh-trinh-sat-chien-truong-k.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4958,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/trinh-sat-05/trinh-sat-07.mp3",
+    "href" : "https://archive.org/download/dee15569f88e557b21e2c1165c975f37/-vvh-7-tran-danh-phum-khong-ten-i-linh-trinh-sat-chien-truong-k.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3956,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/trinh-sat-05/trinh-sat-08.mp3",
+    "href" : "https://archive.org/download/dee15569f88e557b21e2c1165c975f37/-vvh-8-dai-quan-sat-bon-polpot-bi-mat-i-linh-trinh-sat-chien-truong-k.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4275,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/trinh-sat-05/trinh-sat-09.mp3",
+    "href" : "https://archive.org/download/dee15569f88e557b21e2c1165c975f37/-vvh-9-up-thia-tran-danh-ky-la-cua-quan-tn-i-linh-trinh-sat-chien-truong-k.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4963,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/trinh-sat-05/trinh-sat-10.mp3",
+    "href" : "https://archive.org/download/dee15569f88e557b21e2c1165c975f37/trinh-sat-10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4237,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/trinh-sat-05/trinh-sat-11.mp3",
+    "href" : "https://archive.org/download/dee15569f88e557b21e2c1165c975f37/-vvh-11-thua-dau-tai-dinh-547-i-linh-trinh-sat-chien-truong-k.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3362,
@@ -125,47 +125,47 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/trinh-sat-05/trinh-sat-01.mp3",
+    "href" : "https://archive.org/download/dee15569f88e557b21e2c1165c975f37/-vvh-1-tran-quyet-chien-tren-cao-diem-328-i-linh-trinh-sat-chien-truong-k.mp3",
     "title" : "[VVH#1] Trận quyết chiến trên cao điểm 328 I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/trinh-sat-05/trinh-sat-02.mp3",
+    "href" : "https://archive.org/download/dee15569f88e557b21e2c1165c975f37/-vvh-2-chuan-bi-cho-chien-dich-danh-lon-i-linh-trinh-sat-chien-truong-k.mp3",
     "title" : "[VVH#2] Chuẩn bị cho chiến dịch đánh lớn I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/trinh-sat-05/trinh-sat-03.mp3",
+    "href" : "https://archive.org/download/dee15569f88e557b21e2c1165c975f37/-vvh-3-tieng-thang-pot-ru-len-may-tieng-kho-kho-kho-i-linh-trinh-sat-chien-truong-k.mp3",
     "title" : "[VVH#3] Tiếng thằng pốt rú lên mấy tiếng khò...khò...khò... I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/trinh-sat-05/trinh-sat-04.mp3",
+    "href" : "https://archive.org/download/dee15569f88e557b21e2c1165c975f37/-vvh-4-lu-polpot-bo-chay-tan-loan-tren-duong-19-i-linh-trinh-sat-chien-truong-k.mp3",
     "title" : "[VVH#4] Lũ polpot bỏ chạy tán loạn ... trên đường 19 I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/trinh-sat-05/trinh-sat-05.mp3",
+    "href" : "https://archive.org/download/dee15569f88e557b21e2c1165c975f37/-vvh-5-cuoc-phuc-thu-tren-bai-lay-dam-phet-i-linh-trinh-sat-chien-truong-k.mp3",
     "title" : "[VVH#5] Cuộc phục thù trên bãi lầy Dam-phet I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/trinh-sat-05/trinh-sat-06.mp3",
+    "href" : "https://archive.org/download/dee15569f88e557b21e2c1165c975f37/-vvh-6-dung-do-bon-thai-lan-tren-con-duong-tu-than-i-linh-trinh-sat-chien-truong-k.mp3",
     "title" : "[VVH#6] Đụng độ bọn Thái Lan trên con đường tử thần I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/trinh-sat-05/trinh-sat-07.mp3",
+    "href" : "https://archive.org/download/dee15569f88e557b21e2c1165c975f37/-vvh-7-tran-danh-phum-khong-ten-i-linh-trinh-sat-chien-truong-k.mp3",
     "title" : "[VVH#7] Trận đánh PHUM KHÔNG TÊN I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/trinh-sat-05/trinh-sat-08.mp3",
+    "href" : "https://archive.org/download/dee15569f88e557b21e2c1165c975f37/-vvh-8-dai-quan-sat-bon-polpot-bi-mat-i-linh-trinh-sat-chien-truong-k.mp3",
     "title" : "[VVH#8] Đài quan sát bọn polpot BÍ MẬT I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/trinh-sat-05/trinh-sat-09.mp3",
+    "href" : "https://archive.org/download/dee15569f88e557b21e2c1165c975f37/-vvh-9-up-thia-tran-danh-ky-la-cua-quan-tn-i-linh-trinh-sat-chien-truong-k.mp3",
     "title" : "[VVH#9] ÚP THÌA trận đánh kỳ lạ của quân TN I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/trinh-sat-05/trinh-sat-10.mp3",
+    "href" : "https://archive.org/download/dee15569f88e557b21e2c1165c975f37/trinh-sat-10.mp3",
     "title" : "trinh-sat-10",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/trinh-sat-05/trinh-sat-11.mp3",
+    "href" : "https://archive.org/download/dee15569f88e557b21e2c1165c975f37/-vvh-11-thua-dau-tai-dinh-547-i-linh-trinh-sat-chien-truong-k.mp3",
     "title" : "[VVH#11] Thua đau tại đỉnh 547 I LÍNH TRINH SÁT / CHIẾN TRƯỜNG K",
     "children" : [ ]
   } ],
