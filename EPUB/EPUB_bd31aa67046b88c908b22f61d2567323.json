@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 12046,
+    "published" : "2024-04-29",
+    "duration" : 6986,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/me-ke-1/me-ke-1.mp3",
+    "href" : "https://archive.org/download/bd31aa67046b88c908b22f61d2567323/me-ke-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1926,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/me-ke-1/me-ke-2.mp3",
+    "href" : "https://archive.org/download/bd31aa67046b88c908b22f61d2567323/me-ke-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1501,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/me-ke-1/me-ke-3.mp3",
+    "href" : "https://archive.org/download/bd31aa67046b88c908b22f61d2567323/me-ke-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1779,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/me-ke-1/me-ke-4.mp3",
+    "href" : "https://archive.org/download/bd31aa67046b88c908b22f61d2567323/me-ke-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1780,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/me-ke-1/me-ke-1.mp3",
+    "href" : "https://archive.org/download/bd31aa67046b88c908b22f61d2567323/me-ke-1.mp3",
     "title" : "me-ke-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/me-ke-1/me-ke-2.mp3",
+    "href" : "https://archive.org/download/bd31aa67046b88c908b22f61d2567323/me-ke-2.mp3",
     "title" : "me-ke-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/me-ke-1/me-ke-3.mp3",
+    "href" : "https://archive.org/download/bd31aa67046b88c908b22f61d2567323/me-ke-3.mp3",
     "title" : "me-ke-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/me-ke-1/me-ke-4.mp3",
+    "href" : "https://archive.org/download/bd31aa67046b88c908b22f61d2567323/me-ke-4.mp3",
     "title" : "me-ke-4",
     "children" : [ ]
   } ],

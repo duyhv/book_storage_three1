@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 25194,
+    "published" : "2024-04-30",
+    "duration" : 12597,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/menh-mong-bien-viet-tap-1.sna/MENH_MONG_BIEN_VIET_TAP_1_01.mp3",
+    "href" : "https://archive.org/download/ba894d5a06400914dd5ca17263ea7940/menh-mong-bien-viet-tap-1-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1036,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/menh-mong-bien-viet-tap-1.sna/MENH_MONG_BIEN_VIET_TAP_1_02.mp3",
+    "href" : "https://archive.org/download/ba894d5a06400914dd5ca17263ea7940/menh-mong-bien-viet-tap-1-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1855,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/menh-mong-bien-viet-tap-1.sna/MENH_MONG_BIEN_VIET_TAP_1_03.mp3",
+    "href" : "https://archive.org/download/ba894d5a06400914dd5ca17263ea7940/menh-mong-bien-viet-tap-1-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2251,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/menh-mong-bien-viet-tap-1.sna/MENH_MONG_BIEN_VIET_TAP_1_04.mp3",
+    "href" : "https://archive.org/download/ba894d5a06400914dd5ca17263ea7940/menh-mong-bien-viet-tap-1-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2766,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/menh-mong-bien-viet-tap-1.sna/MENH_MONG_BIEN_VIET_TAP_1_05.mp3",
+    "href" : "https://archive.org/download/ba894d5a06400914dd5ca17263ea7940/menh-mong-bien-viet-tap-1-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 857,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/menh-mong-bien-viet-tap-1.sna/MENH_MONG_BIEN_VIET_TAP_1_06.mp3",
+    "href" : "https://archive.org/download/ba894d5a06400914dd5ca17263ea7940/menh-mong-bien-viet-tap-1-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1462,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/menh-mong-bien-viet-tap-1.sna/MENH_MONG_BIEN_VIET_TAP_1_07.mp3",
+    "href" : "https://archive.org/download/ba894d5a06400914dd5ca17263ea7940/menh-mong-bien-viet-tap-1-07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2370,
@@ -93,31 +93,31 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/menh-mong-bien-viet-tap-1.sna/MENH_MONG_BIEN_VIET_TAP_1_01.mp3",
+    "href" : "https://archive.org/download/ba894d5a06400914dd5ca17263ea7940/menh-mong-bien-viet-tap-1-01.mp3",
     "title" : "MENH MONG BIEN VIET TAP 1 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/menh-mong-bien-viet-tap-1.sna/MENH_MONG_BIEN_VIET_TAP_1_02.mp3",
+    "href" : "https://archive.org/download/ba894d5a06400914dd5ca17263ea7940/menh-mong-bien-viet-tap-1-02.mp3",
     "title" : "MENH MONG BIEN VIET TAP 1 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/menh-mong-bien-viet-tap-1.sna/MENH_MONG_BIEN_VIET_TAP_1_03.mp3",
+    "href" : "https://archive.org/download/ba894d5a06400914dd5ca17263ea7940/menh-mong-bien-viet-tap-1-03.mp3",
     "title" : "MENH MONG BIEN VIET TAP 1 03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/menh-mong-bien-viet-tap-1.sna/MENH_MONG_BIEN_VIET_TAP_1_04.mp3",
+    "href" : "https://archive.org/download/ba894d5a06400914dd5ca17263ea7940/menh-mong-bien-viet-tap-1-04.mp3",
     "title" : "MENH MONG BIEN VIET TAP 1 04",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/menh-mong-bien-viet-tap-1.sna/MENH_MONG_BIEN_VIET_TAP_1_05.mp3",
+    "href" : "https://archive.org/download/ba894d5a06400914dd5ca17263ea7940/menh-mong-bien-viet-tap-1-05.mp3",
     "title" : "MENH MONG BIEN VIET TAP 1 05",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/menh-mong-bien-viet-tap-1.sna/MENH_MONG_BIEN_VIET_TAP_1_06.mp3",
+    "href" : "https://archive.org/download/ba894d5a06400914dd5ca17263ea7940/menh-mong-bien-viet-tap-1-06.mp3",
     "title" : "MENH MONG BIEN VIET TAP 1 06",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/menh-mong-bien-viet-tap-1.sna/MENH_MONG_BIEN_VIET_TAP_1_07.mp3",
+    "href" : "https://archive.org/download/ba894d5a06400914dd5ca17263ea7940/menh-mong-bien-viet-tap-1-07.mp3",
     "title" : "MENH MONG BIEN VIET TAP 1 07",
     "children" : [ ]
   } ],

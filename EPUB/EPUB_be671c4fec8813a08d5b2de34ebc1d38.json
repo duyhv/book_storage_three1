@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-04-29",
     "duration" : 14515,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/dac-quyen-cua-giao-su/1.mp3",
+    "href" : "https://archive.org/download/be671c4fec8813a08d5b2de34ebc1d38/truyen-ngon-tinh-sung-hai-huoc-lam-ta-yeu-doi-phan-1-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6833,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dac-quyen-cua-giao-su/2.mp3",
+    "href" : "https://archive.org/download/be671c4fec8813a08d5b2de34ebc1d38/truyen-ngon-tinh-sung-hai-huoc-lam-ta-yeu-doi-p2-het.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7682,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/dac-quyen-cua-giao-su/1.mp3",
+    "href" : "https://archive.org/download/be671c4fec8813a08d5b2de34ebc1d38/truyen-ngon-tinh-sung-hai-huoc-lam-ta-yeu-doi-phan-1-.mp3",
     "title" : "Truyện ngôn tình Sủng - Hài Hước làm ta yêu đời ( Phần 1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dac-quyen-cua-giao-su/2.mp3",
+    "href" : "https://archive.org/download/be671c4fec8813a08d5b2de34ebc1d38/truyen-ngon-tinh-sung-hai-huoc-lam-ta-yeu-doi-p2-het.mp3",
     "title" : "Truyện ngôn tình Sủng - Hài Hước làm ta yêu đời - p2 Hết",
     "children" : [ ]
   } ],
