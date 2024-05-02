@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 23420,
+    "published" : "2024-05-02",
+    "duration" : 11710,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/nhung-nguyen-1/nhung-nguyen-1.mp3",
+    "href" : "https://archive.org/download/83918973db82a4f65ead9c5c2c7d949d/nhung-nguyen-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4310,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nhung-nguyen-1/nhung-nguyen-2.mp3",
+    "href" : "https://archive.org/download/83918973db82a4f65ead9c5c2c7d949d/nhung-nguyen-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3515,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nhung-nguyen-1/nhung-nguyen-3.mp3",
+    "href" : "https://archive.org/download/83918973db82a4f65ead9c5c2c7d949d/nhung-nguyen-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3885,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/nhung-nguyen-1/nhung-nguyen-1.mp3",
+    "href" : "https://archive.org/download/83918973db82a4f65ead9c5c2c7d949d/nhung-nguyen-1.mp3",
     "title" : "nhung-nguyen-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nhung-nguyen-1/nhung-nguyen-2.mp3",
+    "href" : "https://archive.org/download/83918973db82a4f65ead9c5c2c7d949d/nhung-nguyen-2.mp3",
     "title" : "nhung-nguyen-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nhung-nguyen-1/nhung-nguyen-3.mp3",
+    "href" : "https://archive.org/download/83918973db82a4f65ead9c5c2c7d949d/nhung-nguyen-3.mp3",
     "title" : "nhung-nguyen-3",
     "children" : [ ]
   } ],

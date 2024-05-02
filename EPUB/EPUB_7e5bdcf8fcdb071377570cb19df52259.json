@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-02",
     "duration" : 8414,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/nguoi-vo-1/nguoi-vo-1.mp3",
+    "href" : "https://archive.org/download/7e5bdcf8fcdb071377570cb19df52259/nguoi-vo-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4817,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nguoi-vo-1/nguoi-vo-2.mp3",
+    "href" : "https://archive.org/download/7e5bdcf8fcdb071377570cb19df52259/nguoi-vo-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3597,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/nguoi-vo-1/nguoi-vo-1.mp3",
+    "href" : "https://archive.org/download/7e5bdcf8fcdb071377570cb19df52259/nguoi-vo-1.mp3",
     "title" : "nguoi-vo-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nguoi-vo-1/nguoi-vo-2.mp3",
+    "href" : "https://archive.org/download/7e5bdcf8fcdb071377570cb19df52259/nguoi-vo-2.mp3",
     "title" : "nguoi-vo-2",
     "children" : [ ]
   } ],
