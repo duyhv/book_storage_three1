@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 30632,
+    "published" : "2024-05-02",
+    "duration" : 15316,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/chiyeusukhonghoanmycuaanh/1.mp3",
+    "href" : "https://archive.org/download/98f292caa19d85d1918e92844ccaa902/truyen-ngon-tinh-sung-nhieu-canh-h-mc-bao-anh.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4170,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chiyeusukhonghoanmycuaanh/2.mp3",
+    "href" : "https://archive.org/download/98f292caa19d85d1918e92844ccaa902/truyen-ngon-tinh-sung-nhieu-canh-h-mc-bao-anh.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4101,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chiyeusukhonghoanmycuaanh/3.mp3",
+    "href" : "https://archive.org/download/98f292caa19d85d1918e92844ccaa902/truyen-ngon-tinh-sung-nhieu-canh-h-mc-bao-anh.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chiyeusukhonghoanmycuaanh/4.mp3",
+    "href" : "https://archive.org/download/98f292caa19d85d1918e92844ccaa902/truyen-ngon-tinh-sung-nhieu-canh-h-mc-bao-anh.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3402,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/chiyeusukhonghoanmycuaanh/1.mp3",
+    "href" : "https://archive.org/download/98f292caa19d85d1918e92844ccaa902/truyen-ngon-tinh-sung-nhieu-canh-h-mc-bao-anh.mp3",
     "title" : "TRUYỆN NGÔN TÌNH SỦNG NHIỀU CẢNH H - MC BẢO ANH",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chiyeusukhonghoanmycuaanh/2.mp3",
+    "href" : "https://archive.org/download/98f292caa19d85d1918e92844ccaa902/truyen-ngon-tinh-sung-nhieu-canh-h-mc-bao-anh.mp3",
     "title" : "TRUYỆN NGÔN TÌNH SỦNG NHIỀU CẢNH H - MC BẢO ANH",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chiyeusukhonghoanmycuaanh/3.mp3",
+    "href" : "https://archive.org/download/98f292caa19d85d1918e92844ccaa902/truyen-ngon-tinh-sung-nhieu-canh-h-mc-bao-anh.mp3",
     "title" : "TRUYỆN NGÔN TÌNH SỦNG NHIỀU CẢNH H - MC BẢO ANH",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chiyeusukhonghoanmycuaanh/4.mp3",
+    "href" : "https://archive.org/download/98f292caa19d85d1918e92844ccaa902/truyen-ngon-tinh-sung-nhieu-canh-h-mc-bao-anh.mp3",
     "title" : "TRUYỆN NGÔN TÌNH SỦNG NHIỀU CẢNH H - MC BẢO ANH",
     "children" : [ ]
   } ],
