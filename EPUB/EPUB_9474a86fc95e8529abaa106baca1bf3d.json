@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 18232,
+    "published" : "2024-05-02",
+    "duration" : 9116,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/loi-nguyen-manh-dat-ma-am/1.mp3",
+    "href" : "https://archive.org/download/9474a86fc95e8529abaa106baca1bf3d/tap-1-loi-nguyen-manh-dat-ma-am-truyen-ma-co-that-mc-dinh-soan-moi-nhat.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3094,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/loi-nguyen-manh-dat-ma-am/2.mp3",
+    "href" : "https://archive.org/download/9474a86fc95e8529abaa106baca1bf3d/tap-2-loi-nguyen-manh-dat-ma-am-truyen-ma-co-that-mc-dinh-soan-moi-nhat.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3247,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/loi-nguyen-manh-dat-ma-am/3.mp3",
+    "href" : "https://archive.org/download/9474a86fc95e8529abaa106baca1bf3d/qua-hay-loi-nguyen-manh-dat-ma-am-truyen-ma-co-that-mc-dinh-soan-moi-nhat.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2775,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/loi-nguyen-manh-dat-ma-am/1.mp3",
+    "href" : "https://archive.org/download/9474a86fc95e8529abaa106baca1bf3d/tap-1-loi-nguyen-manh-dat-ma-am-truyen-ma-co-that-mc-dinh-soan-moi-nhat.mp3",
     "title" : "Tập 1] Lời Nguyền Mảnh Đất Ma Ám - Truyện ma có thật Mc Đình Soạn mới nhất",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/loi-nguyen-manh-dat-ma-am/2.mp3",
+    "href" : "https://archive.org/download/9474a86fc95e8529abaa106baca1bf3d/tap-2-loi-nguyen-manh-dat-ma-am-truyen-ma-co-that-mc-dinh-soan-moi-nhat.mp3",
     "title" : "Tập 2 ] Lời Nguyền Mảnh Đất Ma Ám - Truyện ma có thật Mc Đình Soạn mới nhất",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/loi-nguyen-manh-dat-ma-am/3.mp3",
+    "href" : "https://archive.org/download/9474a86fc95e8529abaa106baca1bf3d/qua-hay-loi-nguyen-manh-dat-ma-am-truyen-ma-co-that-mc-dinh-soan-moi-nhat.mp3",
     "title" : "QUÁ HAY ] Lời Nguyền Mảnh Đất Ma Ám - Truyện ma có thật Mc Đình Soạn mới nhất",
     "children" : [ ]
   } ],
