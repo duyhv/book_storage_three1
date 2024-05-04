@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 80242,
+    "published" : "2024-05-04",
+    "duration" : 51498,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/cbkh_20230722/00001_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/1-00001-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 516,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00002_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/2-00002-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 960,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00003_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/3-00003-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 966,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00004_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/4-00004-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1905,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00005_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/5-00005-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1140,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00006_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/6-00006-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1006,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00007_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/7-00007-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1825,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00008_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/8-00008-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1020,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00009_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/9-00009-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2232,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00010_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/10-00010-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1330,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00011_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/11-00011-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2172,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00012_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/12-00012-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1577,
@@ -132,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00013_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/13-00013-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1840,
@@ -140,7 +140,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00014_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/14-00014-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1620,
@@ -148,7 +148,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00015_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/15-00015-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2030,
@@ -156,7 +156,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00016_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/16-00016-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2202,
@@ -164,7 +164,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00017_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/17-00017-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1218,
@@ -172,7 +172,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00018_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/18-00018-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4118,
@@ -180,7 +180,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00019_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/19-00019-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2680,
@@ -188,7 +188,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00020_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/20-00020-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2481,
@@ -196,7 +196,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00021_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/21-00021-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1743,
@@ -204,7 +204,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00022_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/22-00022-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1662,
@@ -212,7 +212,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00023_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/23-00023-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2180,
@@ -220,7 +220,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00024_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/24-00024-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 781,
@@ -228,7 +228,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00025_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/25-00025-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3231,
@@ -236,7 +236,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00026_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/26-00026-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2735,
@@ -244,7 +244,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00027_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/27-00027-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1253,
@@ -252,7 +252,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00028_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/28-00028-cai-bong-kinh-hoang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3075,
@@ -261,115 +261,115 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/cbkh_20230722/00001_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/1-00001-cai-bong-kinh-hoang.mp3",
     "title" : "00001 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00002_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/2-00002-cai-bong-kinh-hoang.mp3",
     "title" : "00002 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00003_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/3-00003-cai-bong-kinh-hoang.mp3",
     "title" : "00003 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00004_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/4-00004-cai-bong-kinh-hoang.mp3",
     "title" : "00004 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00005_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/5-00005-cai-bong-kinh-hoang.mp3",
     "title" : "00005 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00006_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/6-00006-cai-bong-kinh-hoang.mp3",
     "title" : "00006 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00007_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/7-00007-cai-bong-kinh-hoang.mp3",
     "title" : "00007 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00008_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/8-00008-cai-bong-kinh-hoang.mp3",
     "title" : "00008 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00009_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/9-00009-cai-bong-kinh-hoang.mp3",
     "title" : "00009 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00010_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/10-00010-cai-bong-kinh-hoang.mp3",
     "title" : "00010 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00011_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/11-00011-cai-bong-kinh-hoang.mp3",
     "title" : "00011 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00012_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/12-00012-cai-bong-kinh-hoang.mp3",
     "title" : "00012 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00013_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/13-00013-cai-bong-kinh-hoang.mp3",
     "title" : "00013 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00014_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/14-00014-cai-bong-kinh-hoang.mp3",
     "title" : "00014 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00015_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/15-00015-cai-bong-kinh-hoang.mp3",
     "title" : "00015 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00016_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/16-00016-cai-bong-kinh-hoang.mp3",
     "title" : "00016 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00017_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/17-00017-cai-bong-kinh-hoang.mp3",
     "title" : "00017 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00018_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/18-00018-cai-bong-kinh-hoang.mp3",
     "title" : "00018 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00019_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/19-00019-cai-bong-kinh-hoang.mp3",
     "title" : "00019 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00020_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/20-00020-cai-bong-kinh-hoang.mp3",
     "title" : "00020 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00021_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/21-00021-cai-bong-kinh-hoang.mp3",
     "title" : "00021 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00022_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/22-00022-cai-bong-kinh-hoang.mp3",
     "title" : "00022 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00023_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/23-00023-cai-bong-kinh-hoang.mp3",
     "title" : "00023 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00024_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/24-00024-cai-bong-kinh-hoang.mp3",
     "title" : "00024 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00025_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/25-00025-cai-bong-kinh-hoang.mp3",
     "title" : "00025 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00026_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/26-00026-cai-bong-kinh-hoang.mp3",
     "title" : "00026 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00027_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/27-00027-cai-bong-kinh-hoang.mp3",
     "title" : "00027 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbkh_20230722/00028_Ca%CC%81i%20Bo%CC%81ng%20Kinh%20Hoa%CC%80ng.m4a",
+    "href" : "https://archive.org/download/9a0151018b1b21744f4d12ff7e523bfd/28-00028-cai-bong-kinh-hoang.mp3",
     "title" : "00028 Cái Bóng Kinh Hoàng",
     "children" : [ ]
   } ],

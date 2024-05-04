@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-04",
     "duration" : 22171,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/pipi-2/pipi-1.mp3",
+    "href" : "https://archive.org/download/93bf17e026f30b9d0ca133fcd9fa1770/1-pipi-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5371,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/pipi-2/pipi-2.mp3",
+    "href" : "https://archive.org/download/93bf17e026f30b9d0ca133fcd9fa1770/2-pipi-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5654,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/pipi-2/pipi-3.mp3",
+    "href" : "https://archive.org/download/93bf17e026f30b9d0ca133fcd9fa1770/3-pipi-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5634,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/pipi-2/pipi.mp3",
+    "href" : "https://archive.org/download/93bf17e026f30b9d0ca133fcd9fa1770/4-pipi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5512,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/pipi-2/pipi-1.mp3",
+    "href" : "https://archive.org/download/93bf17e026f30b9d0ca133fcd9fa1770/1-pipi-1.mp3",
     "title" : "pipi-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/pipi-2/pipi-2.mp3",
+    "href" : "https://archive.org/download/93bf17e026f30b9d0ca133fcd9fa1770/2-pipi-2.mp3",
     "title" : "pipi-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/pipi-2/pipi-3.mp3",
+    "href" : "https://archive.org/download/93bf17e026f30b9d0ca133fcd9fa1770/3-pipi-3.mp3",
     "title" : "pipi-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/pipi-2/pipi.mp3",
+    "href" : "https://archive.org/download/93bf17e026f30b9d0ca133fcd9fa1770/4-pipi.mp3",
     "title" : "pipi",
     "children" : [ ]
   } ],
