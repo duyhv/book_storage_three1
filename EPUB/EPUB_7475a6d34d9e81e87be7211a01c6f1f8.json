@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 9014,
+    "published" : "2024-05-05",
+    "duration" : 4507,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/bi-mat-chiec-xo-cam-xuc-suu-tam-.sna/BiMatChiecXoCamXuc01.mp3",
+    "href" : "https://archive.org/download/7475a6d34d9e81e87be7211a01c6f1f8/1-bimatchiecxocamxuc01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2081,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bi-mat-chiec-xo-cam-xuc-suu-tam-.sna/BiMatChiecXoCamXuc02.mp3",
+    "href" : "https://archive.org/download/7475a6d34d9e81e87be7211a01c6f1f8/2-bimatchiecxocamxuc02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2426,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/bi-mat-chiec-xo-cam-xuc-suu-tam-.sna/BiMatChiecXoCamXuc01.mp3",
+    "href" : "https://archive.org/download/7475a6d34d9e81e87be7211a01c6f1f8/1-bimatchiecxocamxuc01.mp3",
     "title" : "BiMatChiecXoCamXuc01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bi-mat-chiec-xo-cam-xuc-suu-tam-.sna/BiMatChiecXoCamXuc02.mp3",
+    "href" : "https://archive.org/download/7475a6d34d9e81e87be7211a01c6f1f8/2-bimatchiecxocamxuc02.mp3",
     "title" : "BiMatChiecXoCamXuc02",
     "children" : [ ]
   } ],
