@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-06",
     "duration" : 27472,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/linh-su-2/linh-su-1.mp3",
+    "href" : "https://archive.org/download/84461f33ba310da8ff7b5cea008b553e/1--tron-bo-linh-su-doan-bo-binh-4-phan-01-hoi-ky-nguyen-khac-toa-hoi-ky-chien-truong-k.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 9625,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/linh-su-2/linh-su-2.mp3",
+    "href" : "https://archive.org/download/84461f33ba310da8ff7b5cea008b553e/2--tron-bo-linh-su-doan-bo-binh-4-phan-02-hoi-ky-nguyen-khac-toa-hoi-ky-chien-truong-k.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 9792,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/linh-su-2/linh-su-3.mp3",
+    "href" : "https://archive.org/download/84461f33ba310da8ff7b5cea008b553e/3--tron-bo-linh-su-doan-bo-binh-4-phan-03-hoi-ky-nguyen-khac-toa-hoi-ky-chien-truong-k.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 8055,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/linh-su-2/linh-su-1.mp3",
+    "href" : "https://archive.org/download/84461f33ba310da8ff7b5cea008b553e/1--tron-bo-linh-su-doan-bo-binh-4-phan-01-hoi-ky-nguyen-khac-toa-hoi-ky-chien-truong-k.mp3",
     "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 01 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/linh-su-2/linh-su-2.mp3",
+    "href" : "https://archive.org/download/84461f33ba310da8ff7b5cea008b553e/2--tron-bo-linh-su-doan-bo-binh-4-phan-02-hoi-ky-nguyen-khac-toa-hoi-ky-chien-truong-k.mp3",
     "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 02 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/linh-su-2/linh-su-3.mp3",
+    "href" : "https://archive.org/download/84461f33ba310da8ff7b5cea008b553e/3--tron-bo-linh-su-doan-bo-binh-4-phan-03-hoi-ky-nguyen-khac-toa-hoi-ky-chien-truong-k.mp3",
     "title" : "(Trọn Bộ) LÍNH SƯ ĐOÀN BỘ BINH 4 | Phần 03 | Hồi Ký Nguyễn Khắc Tòa | Hồi Ký Chiến Trường K",
     "children" : [ ]
   } ],
