@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 21524,
+    "published" : "2024-05-07",
+    "duration" : 12479,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/suc-manh-tinh-ban.sna/SUC%20MANH%20TINH%20BAN%2001.mp3",
+    "href" : "https://archive.org/download/4c0287d101f880619680a54f0562c891/1-suc-manh-tinh-ban-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2586,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/suc-manh-tinh-ban.sna/SUC%20MANH%20TINH%20BAN%2002.mp3",
+    "href" : "https://archive.org/download/4c0287d101f880619680a54f0562c891/2-suc-manh-tinh-ban-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3434,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/suc-manh-tinh-ban.sna/SUC%20MANH%20TINH%20BAN%2003.mp3",
+    "href" : "https://archive.org/download/4c0287d101f880619680a54f0562c891/3-suc-manh-tinh-ban-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2374,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/suc-manh-tinh-ban.sna/SUC%20MANH%20TINH%20BAN%2004.mp3",
+    "href" : "https://archive.org/download/4c0287d101f880619680a54f0562c891/4-suc-manh-tinh-ban-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2316,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/suc-manh-tinh-ban.sna/SUC%20MANH%20TINH%20BAN%2005.mp3",
+    "href" : "https://archive.org/download/4c0287d101f880619680a54f0562c891/5-suc-manh-tinh-ban-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1769,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/suc-manh-tinh-ban.sna/SUC%20MANH%20TINH%20BAN%2001.mp3",
+    "href" : "https://archive.org/download/4c0287d101f880619680a54f0562c891/1-suc-manh-tinh-ban-01.mp3",
     "title" : "SUC MANH TINH BAN 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/suc-manh-tinh-ban.sna/SUC%20MANH%20TINH%20BAN%2002.mp3",
+    "href" : "https://archive.org/download/4c0287d101f880619680a54f0562c891/2-suc-manh-tinh-ban-02.mp3",
     "title" : "SUC MANH TINH BAN 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/suc-manh-tinh-ban.sna/SUC%20MANH%20TINH%20BAN%2003.mp3",
+    "href" : "https://archive.org/download/4c0287d101f880619680a54f0562c891/3-suc-manh-tinh-ban-03.mp3",
     "title" : "SUC MANH TINH BAN 03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/suc-manh-tinh-ban.sna/SUC%20MANH%20TINH%20BAN%2004.mp3",
+    "href" : "https://archive.org/download/4c0287d101f880619680a54f0562c891/4-suc-manh-tinh-ban-04.mp3",
     "title" : "SUC MANH TINH BAN 04",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/suc-manh-tinh-ban.sna/SUC%20MANH%20TINH%20BAN%2005.mp3",
+    "href" : "https://archive.org/download/4c0287d101f880619680a54f0562c891/5-suc-manh-tinh-ban-05.mp3",
     "title" : "SUC MANH TINH BAN 05",
     "children" : [ ]
   } ],

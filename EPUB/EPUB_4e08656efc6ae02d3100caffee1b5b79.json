@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-07",
     "duration" : 20887,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B0%5D.mp3",
+    "href" : "https://archive.org/download/4e08656efc6ae02d3100caffee1b5b79/1-chuyenkevebacho-mp3-audio-192-kbps-cd-transparent-audio-0-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1790,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B10%5D.mp3",
+    "href" : "https://archive.org/download/4e08656efc6ae02d3100caffee1b5b79/2-chuyenkevebacho-mp3-audio-192-kbps-cd-transparent-audio-10-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2828,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B1%5D.mp3",
+    "href" : "https://archive.org/download/4e08656efc6ae02d3100caffee1b5b79/3-chuyenkevebacho-mp3-audio-192-kbps-cd-transparent-audio-1-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1810,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B2%5D.mp3",
+    "href" : "https://archive.org/download/4e08656efc6ae02d3100caffee1b5b79/4-chuyenkevebacho-mp3-audio-192-kbps-cd-transparent-audio-2-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1847,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B3%5D.mp3",
+    "href" : "https://archive.org/download/4e08656efc6ae02d3100caffee1b5b79/5-chuyenkevebacho-mp3-audio-192-kbps-cd-transparent-audio-3-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1818,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B4%5D.mp3",
+    "href" : "https://archive.org/download/4e08656efc6ae02d3100caffee1b5b79/6-chuyenkevebacho-mp3-audio-192-kbps-cd-transparent-audio-4-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1743,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B5%5D.mp3",
+    "href" : "https://archive.org/download/4e08656efc6ae02d3100caffee1b5b79/7-chuyenkevebacho-mp3-audio-192-kbps-cd-transparent-audio-5-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1768,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B6%5D.mp3",
+    "href" : "https://archive.org/download/4e08656efc6ae02d3100caffee1b5b79/8-chuyenkevebacho-mp3-audio-192-kbps-cd-transparent-audio-6-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1816,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B7%5D.mp3",
+    "href" : "https://archive.org/download/4e08656efc6ae02d3100caffee1b5b79/9-chuyenkevebacho-mp3-audio-192-kbps-cd-transparent-audio-7-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1830,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B8%5D.mp3",
+    "href" : "https://archive.org/download/4e08656efc6ae02d3100caffee1b5b79/10-chuyenkevebacho-mp3-audio-192-kbps-cd-transparent-audio-8-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1840,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B9%5D.mp3",
+    "href" : "https://archive.org/download/4e08656efc6ae02d3100caffee1b5b79/11-chuyenkevebacho-mp3-audio-192-kbps-cd-transparent-audio-9-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1797,
@@ -125,47 +125,47 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B0%5D.mp3",
+    "href" : "https://archive.org/download/4e08656efc6ae02d3100caffee1b5b79/1-chuyenkevebacho-mp3-audio-192-kbps-cd-transparent-audio-0-.mp3",
     "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[0]",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B10%5D.mp3",
+    "href" : "https://archive.org/download/4e08656efc6ae02d3100caffee1b5b79/2-chuyenkevebacho-mp3-audio-192-kbps-cd-transparent-audio-10-.mp3",
     "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[10]",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B1%5D.mp3",
+    "href" : "https://archive.org/download/4e08656efc6ae02d3100caffee1b5b79/3-chuyenkevebacho-mp3-audio-192-kbps-cd-transparent-audio-1-.mp3",
     "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[1]",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B2%5D.mp3",
+    "href" : "https://archive.org/download/4e08656efc6ae02d3100caffee1b5b79/4-chuyenkevebacho-mp3-audio-192-kbps-cd-transparent-audio-2-.mp3",
     "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[2]",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B3%5D.mp3",
+    "href" : "https://archive.org/download/4e08656efc6ae02d3100caffee1b5b79/5-chuyenkevebacho-mp3-audio-192-kbps-cd-transparent-audio-3-.mp3",
     "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[3]",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B4%5D.mp3",
+    "href" : "https://archive.org/download/4e08656efc6ae02d3100caffee1b5b79/6-chuyenkevebacho-mp3-audio-192-kbps-cd-transparent-audio-4-.mp3",
     "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[4]",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B5%5D.mp3",
+    "href" : "https://archive.org/download/4e08656efc6ae02d3100caffee1b5b79/7-chuyenkevebacho-mp3-audio-192-kbps-cd-transparent-audio-5-.mp3",
     "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[5]",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B6%5D.mp3",
+    "href" : "https://archive.org/download/4e08656efc6ae02d3100caffee1b5b79/8-chuyenkevebacho-mp3-audio-192-kbps-cd-transparent-audio-6-.mp3",
     "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[6]",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B7%5D.mp3",
+    "href" : "https://archive.org/download/4e08656efc6ae02d3100caffee1b5b79/9-chuyenkevebacho-mp3-audio-192-kbps-cd-transparent-audio-7-.mp3",
     "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[7]",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B8%5D.mp3",
+    "href" : "https://archive.org/download/4e08656efc6ae02d3100caffee1b5b79/10-chuyenkevebacho-mp3-audio-192-kbps-cd-transparent-audio-8-.mp3",
     "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[8]",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B9%5D.mp3",
+    "href" : "https://archive.org/download/4e08656efc6ae02d3100caffee1b5b79/11-chuyenkevebacho-mp3-audio-192-kbps-cd-transparent-audio-9-.mp3",
     "title" : "Chuyenkevebacho MP3 Audio 192 Kbps, CD Transparent Audio[9]",
     "children" : [ ]
   } ],
