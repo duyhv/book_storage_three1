@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-07",
     "duration" : 10613,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/chuyen-ve-1/chuyen-ve-1.mp3",
+    "href" : "https://archive.org/download/570824da3a048bfa990cf4bfc4c27d59/1-chuyen-ve-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chuyen-ve-1/chuyen-ve-2.mp3",
+    "href" : "https://archive.org/download/570824da3a048bfa990cf4bfc4c27d59/2-chuyen-ve-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chuyen-ve-1/chuyen-ve-3.mp3",
+    "href" : "https://archive.org/download/570824da3a048bfa990cf4bfc4c27d59/3-chuyen-ve-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3413,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/chuyen-ve-1/chuyen-ve-1.mp3",
+    "href" : "https://archive.org/download/570824da3a048bfa990cf4bfc4c27d59/1-chuyen-ve-1.mp3",
     "title" : "chuyen-ve-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chuyen-ve-1/chuyen-ve-2.mp3",
+    "href" : "https://archive.org/download/570824da3a048bfa990cf4bfc4c27d59/2-chuyen-ve-2.mp3",
     "title" : "chuyen-ve-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chuyen-ve-1/chuyen-ve-3.mp3",
+    "href" : "https://archive.org/download/570824da3a048bfa990cf4bfc4c27d59/3-chuyen-ve-3.mp3",
     "title" : "chuyen-ve-3",
     "children" : [ ]
   } ],
