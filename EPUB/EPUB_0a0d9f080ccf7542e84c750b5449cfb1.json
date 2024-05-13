@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-13",
     "duration" : 57807,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-1.mp3",
+    "href" : "https://archive.org/download/0a0d9f080ccf7542e84c750b5449cfb1/1-hoi-ky-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7639,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-2.mp3",
+    "href" : "https://archive.org/download/0a0d9f080ccf7542e84c750b5449cfb1/2-hoi-ky-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7515,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-3.mp3",
+    "href" : "https://archive.org/download/0a0d9f080ccf7542e84c750b5449cfb1/3-hoi-ky-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7006,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-4.mp3",
+    "href" : "https://archive.org/download/0a0d9f080ccf7542e84c750b5449cfb1/4-hoi-ky-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7720,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-5.mp3",
+    "href" : "https://archive.org/download/0a0d9f080ccf7542e84c750b5449cfb1/5-hoi-ky-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7736,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-6.mp3",
+    "href" : "https://archive.org/download/0a0d9f080ccf7542e84c750b5449cfb1/6-hoi-ky-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7324,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-7.mp3",
+    "href" : "https://archive.org/download/0a0d9f080ccf7542e84c750b5449cfb1/7-hoi-ky-7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 12867,
@@ -93,31 +93,31 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-1.mp3",
+    "href" : "https://archive.org/download/0a0d9f080ccf7542e84c750b5449cfb1/1-hoi-ky-1.mp3",
     "title" : "hoi-ky-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-2.mp3",
+    "href" : "https://archive.org/download/0a0d9f080ccf7542e84c750b5449cfb1/2-hoi-ky-2.mp3",
     "title" : "hoi-ky-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-3.mp3",
+    "href" : "https://archive.org/download/0a0d9f080ccf7542e84c750b5449cfb1/3-hoi-ky-3.mp3",
     "title" : "hoi-ky-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-4.mp3",
+    "href" : "https://archive.org/download/0a0d9f080ccf7542e84c750b5449cfb1/4-hoi-ky-4.mp3",
     "title" : "hoi-ky-4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-5.mp3",
+    "href" : "https://archive.org/download/0a0d9f080ccf7542e84c750b5449cfb1/5-hoi-ky-5.mp3",
     "title" : "hoi-ky-5",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-6.mp3",
+    "href" : "https://archive.org/download/0a0d9f080ccf7542e84c750b5449cfb1/6-hoi-ky-6.mp3",
     "title" : "hoi-ky-6",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hoi-ky-1/hoi-ky-7.mp3",
+    "href" : "https://archive.org/download/0a0d9f080ccf7542e84c750b5449cfb1/7-hoi-ky-7.mp3",
     "title" : "hoi-ky-7",
     "children" : [ ]
   } ],

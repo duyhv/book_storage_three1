@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-13",
     "duration" : 32977,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/th_20230723/tri%E1%BB%87u%20h%E1%BB%93i%201%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/24cb45ac5eba55134a12a017140ee6a2/1-trieu-hoi-1-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4099,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/th_20230723/tri%E1%BB%87u%20h%E1%BB%93i%202%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/24cb45ac5eba55134a12a017140ee6a2/2-trieu-hoi-2-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4410,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/th_20230723/tri%E1%BB%87u%20h%E1%BB%93i%203%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/24cb45ac5eba55134a12a017140ee6a2/3-trieu-hoi-3-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4277,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/th_20230723/tri%E1%BB%87u%20h%E1%BB%93i%204%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/24cb45ac5eba55134a12a017140ee6a2/4-trieu-hoi-4-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4650,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/th_20230723/tri%E1%BB%87u%20h%E1%BB%93i%205%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/24cb45ac5eba55134a12a017140ee6a2/5-trieu-hoi-5-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3865,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/th_20230723/tri%E1%BB%87u%20h%E1%BB%93i%206%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/24cb45ac5eba55134a12a017140ee6a2/6-trieu-hoi-6-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3846,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/th_20230723/tri%E1%BB%87u%20h%E1%BB%93i%207%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/24cb45ac5eba55134a12a017140ee6a2/7-trieu-hoi-7-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3884,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/th_20230723/tri%E1%BB%87u%20h%E1%BB%93i%208%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/24cb45ac5eba55134a12a017140ee6a2/8-trieu-hoi-8-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3946,
@@ -101,35 +101,35 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/th_20230723/tri%E1%BB%87u%20h%E1%BB%93i%201%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/24cb45ac5eba55134a12a017140ee6a2/1-trieu-hoi-1-192kbit-aac-.mp3",
     "title" : "triệu hồi 1 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/th_20230723/tri%E1%BB%87u%20h%E1%BB%93i%202%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/24cb45ac5eba55134a12a017140ee6a2/2-trieu-hoi-2-192kbit-aac-.mp3",
     "title" : "triệu hồi 2 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/th_20230723/tri%E1%BB%87u%20h%E1%BB%93i%203%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/24cb45ac5eba55134a12a017140ee6a2/3-trieu-hoi-3-192kbit-aac-.mp3",
     "title" : "triệu hồi 3 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/th_20230723/tri%E1%BB%87u%20h%E1%BB%93i%204%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/24cb45ac5eba55134a12a017140ee6a2/4-trieu-hoi-4-192kbit-aac-.mp3",
     "title" : "triệu hồi 4 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/th_20230723/tri%E1%BB%87u%20h%E1%BB%93i%205%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/24cb45ac5eba55134a12a017140ee6a2/5-trieu-hoi-5-192kbit-aac-.mp3",
     "title" : "triệu hồi 5 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/th_20230723/tri%E1%BB%87u%20h%E1%BB%93i%206%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/24cb45ac5eba55134a12a017140ee6a2/6-trieu-hoi-6-192kbit-aac-.mp3",
     "title" : "triệu hồi 6 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/th_20230723/tri%E1%BB%87u%20h%E1%BB%93i%207%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/24cb45ac5eba55134a12a017140ee6a2/7-trieu-hoi-7-192kbit-aac-.mp3",
     "title" : "triệu hồi 7 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/th_20230723/tri%E1%BB%87u%20h%E1%BB%93i%208%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/24cb45ac5eba55134a12a017140ee6a2/8-trieu-hoi-8-192kbit-aac-.mp3",
     "title" : "triệu hồi 8 (192kbit AAC)",
     "children" : [ ]
   } ],
