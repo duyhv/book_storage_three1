@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 16791,
+    "published" : "2024-05-14",
+    "duration" : 11134,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/bi-mat-1_202112/bi-mat-1.mp3",
+    "href" : "https://archive.org/download/04a1135263ab0085858787cf8d433d9c/1-bi-mat-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5657,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bi-mat-1_202112/bi-mat-2.mp3",
+    "href" : "https://archive.org/download/04a1135263ab0085858787cf8d433d9c/2-bi-mat-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5477,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/bi-mat-1_202112/bi-mat-1.mp3",
+    "href" : "https://archive.org/download/04a1135263ab0085858787cf8d433d9c/1-bi-mat-1.mp3",
     "title" : "bi-mat-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bi-mat-1_202112/bi-mat-2.mp3",
+    "href" : "https://archive.org/download/04a1135263ab0085858787cf8d433d9c/2-bi-mat-2.mp3",
     "title" : "bi-mat-2",
     "children" : [ ]
   } ],
