@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-13",
-    "duration" : 57807,
+    "published" : "2024-09-20",
+    "duration" : 57811,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/0a0d9f080ccf7542e84c750b5449cfb1/3-hoi-ky-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7006,
+    "duration" : 7007,
     "title" : "hoi-ky-3",
     "properties" : null,
     "alternate" : null
@@ -63,7 +63,7 @@
     "href" : "https://archive.org/download/0a0d9f080ccf7542e84c750b5449cfb1/4-hoi-ky-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7720,
+    "duration" : 7721,
     "title" : "hoi-ky-4",
     "properties" : null,
     "alternate" : null
@@ -71,7 +71,7 @@
     "href" : "https://archive.org/download/0a0d9f080ccf7542e84c750b5449cfb1/5-hoi-ky-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7736,
+    "duration" : 7737,
     "title" : "hoi-ky-5",
     "properties" : null,
     "alternate" : null
@@ -87,7 +87,7 @@
     "href" : "https://archive.org/download/0a0d9f080ccf7542e84c750b5449cfb1/7-hoi-ky-7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 12867,
+    "duration" : 12868,
     "title" : "hoi-ky-7",
     "properties" : null,
     "alternate" : null

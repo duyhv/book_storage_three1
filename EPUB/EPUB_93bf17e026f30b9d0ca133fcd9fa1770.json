@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-04",
-    "duration" : 22171,
+    "published" : "2024-09-20",
+    "duration" : 22174,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/93bf17e026f30b9d0ca133fcd9fa1770/1-pipi-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5371,
+    "duration" : 5372,
     "title" : "pipi-1",
     "properties" : null,
     "alternate" : null
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/93bf17e026f30b9d0ca133fcd9fa1770/3-pipi-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5634,
+    "duration" : 5635,
     "title" : "pipi-3",
     "properties" : null,
     "alternate" : null
@@ -63,7 +63,7 @@
     "href" : "https://archive.org/download/93bf17e026f30b9d0ca133fcd9fa1770/4-pipi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5512,
+    "duration" : 5513,
     "title" : "pipi",
     "properties" : null,
     "alternate" : null

@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-07",
-    "duration" : 10613,
+    "published" : "2024-09-20",
+    "duration" : 10616,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/570824da3a048bfa990cf4bfc4c27d59/1-chuyen-ve-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3600,
+    "duration" : 3601,
     "title" : "chuyen-ve-1",
     "properties" : null,
     "alternate" : null
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/570824da3a048bfa990cf4bfc4c27d59/2-chuyen-ve-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3600,
+    "duration" : 3601,
     "title" : "chuyen-ve-2",
     "properties" : null,
     "alternate" : null
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/570824da3a048bfa990cf4bfc4c27d59/3-chuyen-ve-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3413,
+    "duration" : 3414,
     "title" : "chuyen-ve-3",
     "properties" : null,
     "alternate" : null
