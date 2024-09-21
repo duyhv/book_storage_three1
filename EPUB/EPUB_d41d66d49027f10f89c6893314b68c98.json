@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-04-22",
-    "duration" : 11001,
+    "published" : "2024-09-21",
+    "duration" : 11003,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/d41d66d49027f10f89c6893314b68c98/mot-chu-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3720,
+    "duration" : 3721,
     "title" : "mot-chu-1",
     "properties" : null,
     "alternate" : null
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/d41d66d49027f10f89c6893314b68c98/mot-chu-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3720,
+    "duration" : 3721,
     "title" : "mot-chu-2",
     "properties" : null,
     "alternate" : null
