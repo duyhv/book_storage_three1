@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-09-20",
-    "duration" : 29452,
+    "published" : "2024-10-22",
+    "duration" : 29443,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,112 +36,112 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/0bde9542a57f1c53d89c897db005bf94/1-1.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/0bde9542a57f1c53d89c897db005bf94/cloudflare_1-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3241,
+    "duration" : 3240,
     "title" : "1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/0bde9542a57f1c53d89c897db005bf94/2-2.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/0bde9542a57f1c53d89c897db005bf94/cloudflare_2-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3241,
+    "duration" : 3240,
     "title" : "2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/0bde9542a57f1c53d89c897db005bf94/3-3.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/0bde9542a57f1c53d89c897db005bf94/cloudflare_3-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3241,
+    "duration" : 3240,
     "title" : "3",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/0bde9542a57f1c53d89c897db005bf94/4-4.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/0bde9542a57f1c53d89c897db005bf94/cloudflare_4-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3241,
+    "duration" : 3240,
     "title" : "4",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/0bde9542a57f1c53d89c897db005bf94/5-5.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/0bde9542a57f1c53d89c897db005bf94/cloudflare_5-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3241,
+    "duration" : 3240,
     "title" : "5",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/0bde9542a57f1c53d89c897db005bf94/6-6.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/0bde9542a57f1c53d89c897db005bf94/cloudflare_6-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3241,
+    "duration" : 3240,
     "title" : "6",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/0bde9542a57f1c53d89c897db005bf94/7-7.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/0bde9542a57f1c53d89c897db005bf94/cloudflare_7-7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3241,
+    "duration" : 3240,
     "title" : "7",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/0bde9542a57f1c53d89c897db005bf94/8-8.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/0bde9542a57f1c53d89c897db005bf94/cloudflare_8-8.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3241,
+    "duration" : 3240,
     "title" : "8",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/0bde9542a57f1c53d89c897db005bf94/9-9.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/0bde9542a57f1c53d89c897db005bf94/cloudflare_9-9.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3524,
+    "duration" : 3523,
     "title" : "9",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/0bde9542a57f1c53d89c897db005bf94/1-1.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/0bde9542a57f1c53d89c897db005bf94/cloudflare_1-1.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/0bde9542a57f1c53d89c897db005bf94/2-2.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/0bde9542a57f1c53d89c897db005bf94/cloudflare_2-2.mp3",
     "title" : "2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/0bde9542a57f1c53d89c897db005bf94/3-3.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/0bde9542a57f1c53d89c897db005bf94/cloudflare_3-3.mp3",
     "title" : "3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/0bde9542a57f1c53d89c897db005bf94/4-4.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/0bde9542a57f1c53d89c897db005bf94/cloudflare_4-4.mp3",
     "title" : "4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/0bde9542a57f1c53d89c897db005bf94/5-5.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/0bde9542a57f1c53d89c897db005bf94/cloudflare_5-5.mp3",
     "title" : "5",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/0bde9542a57f1c53d89c897db005bf94/6-6.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/0bde9542a57f1c53d89c897db005bf94/cloudflare_6-6.mp3",
     "title" : "6",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/0bde9542a57f1c53d89c897db005bf94/7-7.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/0bde9542a57f1c53d89c897db005bf94/cloudflare_7-7.mp3",
     "title" : "7",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/0bde9542a57f1c53d89c897db005bf94/8-8.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/0bde9542a57f1c53d89c897db005bf94/cloudflare_8-8.mp3",
     "title" : "8",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/0bde9542a57f1c53d89c897db005bf94/9-9.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/0bde9542a57f1c53d89c897db005bf94/cloudflare_9-9.mp3",
     "title" : "9",
     "children" : [ ]
   } ],
