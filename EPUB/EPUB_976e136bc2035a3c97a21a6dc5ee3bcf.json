@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-09-20",
-    "duration" : 9905,
+    "published" : "2024-10-25",
+    "duration" : 9898,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,88 +36,88 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/976e136bc2035a3c97a21a6dc5ee3bcf/1-loi-gioi-thieu.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/976e136bc2035a3c97a21a6dc5ee3bcf/cloudflare_1-loi-gioi-thieu.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 413,
+    "duration" : 412,
     "title" : "Lời Giới Thiệu",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/976e136bc2035a3c97a21a6dc5ee3bcf/2-mat-trai-cua-thanh-cong.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/976e136bc2035a3c97a21a6dc5ee3bcf/cloudflare_2-mat-trai-cua-thanh-cong.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 769,
+    "duration" : 768,
     "title" : "Mặt Trái Của Thành Công",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/976e136bc2035a3c97a21a6dc5ee3bcf/3-cac-nhan-to-dieu-tiet.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/976e136bc2035a3c97a21a6dc5ee3bcf/cloudflare_3-cac-nhan-to-dieu-tiet.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1397,
+    "duration" : 1396,
     "title" : "Các Nhân Tố Điều Tiết",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/976e136bc2035a3c97a21a6dc5ee3bcf/4-chuyen-vieng-tham-cua-jo.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/976e136bc2035a3c97a21a6dc5ee3bcf/cloudflare_4-chuyen-vieng-tham-cua-jo.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2345,
+    "duration" : 2344,
     "title" : "Chuyến Viếng Thăm Của Jo",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/976e136bc2035a3c97a21a6dc5ee3bcf/5-hay-van-dong-ve-suc-khoe.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/976e136bc2035a3c97a21a6dc5ee3bcf/cloudflare_5-hay-van-dong-ve-suc-khoe.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2585,
+    "duration" : 2584,
     "title" : "Hãy Vận Động Về Sức Khỏe",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/976e136bc2035a3c97a21a6dc5ee3bcf/6-ke-hoach-thay-doi-cuoc-song.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/976e136bc2035a3c97a21a6dc5ee3bcf/cloudflare_6-ke-hoach-thay-doi-cuoc-song.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1405,
+    "duration" : 1404,
     "title" : "Kế Hoạch Thay Đổi Cuộc Sống",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/976e136bc2035a3c97a21a6dc5ee3bcf/7-giup-do-nguoi-khac.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/976e136bc2035a3c97a21a6dc5ee3bcf/cloudflare_7-giup-do-nguoi-khac.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 991,
+    "duration" : 990,
     "title" : "Giúp Đỡ Người Khác",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/976e136bc2035a3c97a21a6dc5ee3bcf/1-loi-gioi-thieu.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/976e136bc2035a3c97a21a6dc5ee3bcf/cloudflare_1-loi-gioi-thieu.mp3",
     "title" : "Lời Giới Thiệu",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/976e136bc2035a3c97a21a6dc5ee3bcf/2-mat-trai-cua-thanh-cong.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/976e136bc2035a3c97a21a6dc5ee3bcf/cloudflare_2-mat-trai-cua-thanh-cong.mp3",
     "title" : "Mặt Trái Của Thành Công",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/976e136bc2035a3c97a21a6dc5ee3bcf/3-cac-nhan-to-dieu-tiet.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/976e136bc2035a3c97a21a6dc5ee3bcf/cloudflare_3-cac-nhan-to-dieu-tiet.mp3",
     "title" : "Các Nhân Tố Điều Tiết",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/976e136bc2035a3c97a21a6dc5ee3bcf/4-chuyen-vieng-tham-cua-jo.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/976e136bc2035a3c97a21a6dc5ee3bcf/cloudflare_4-chuyen-vieng-tham-cua-jo.mp3",
     "title" : "Chuyến Viếng Thăm Của Jo",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/976e136bc2035a3c97a21a6dc5ee3bcf/5-hay-van-dong-ve-suc-khoe.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/976e136bc2035a3c97a21a6dc5ee3bcf/cloudflare_5-hay-van-dong-ve-suc-khoe.mp3",
     "title" : "Hãy Vận Động Về Sức Khỏe",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/976e136bc2035a3c97a21a6dc5ee3bcf/6-ke-hoach-thay-doi-cuoc-song.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/976e136bc2035a3c97a21a6dc5ee3bcf/cloudflare_6-ke-hoach-thay-doi-cuoc-song.mp3",
     "title" : "Kế Hoạch Thay Đổi Cuộc Sống",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/976e136bc2035a3c97a21a6dc5ee3bcf/7-giup-do-nguoi-khac.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/976e136bc2035a3c97a21a6dc5ee3bcf/cloudflare_7-giup-do-nguoi-khac.mp3",
     "title" : "Giúp Đỡ Người Khác",
     "children" : [ ]
   } ],
